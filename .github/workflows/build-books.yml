@@ -27,6 +27,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended calibre
 
+      - name: Preparar a imagem de capa do barqueiro
+        run: |
+          mkdir -p "$RUNNER_TEMP/book-assets"
+          curl --fail --location --retry 3 \
+            https://www.stelle.com.br/imagens/C5.jpg \
+            --output "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg"
+
       - name: Juntar capítulos e criar PDF, EPUB e MOBI em ~/download
         shell: bash
         run: |
@@ -36,7 +43,12 @@ jobs:
           : > "$merged"
           for book in 1-inferno 2-purgatorio 3-paraiso; do
             if [[ -d "$book" ]]; then
-              printf '# %s\n' "${book#*-}" >> "$merged"
+              case "$book" in
+                1-inferno) title='Livro I — Inferno' ;;
+                2-purgatorio) title='Livro II — Purgatório' ;;
+                3-paraiso) title='Livro III — Paraíso' ;;
+              esac
+              printf '# %s\n' "$title" >> "$merged"
               while IFS= read -r -d '' file; do
                 printf '\n\\newpage\n\n' >> "$merged"
                 cat "$file" >> "$merged"
@@ -45,13 +57,37 @@ jobs:
             fi
           done
 
-          pandoc "$merged" \
+          cat > "$RUNNER_TEMP/book-assets/cover-page.tex" <<EOF
+          \\begin{titlepage}
+          \\centering
+          \\vspace*{\\fill}
+          {\\Huge\\bfseries A Divina Comédia\\par}
+          \\vspace{0.5cm}
+          {\\Large Dante Alighieri\\par}
+          \\vspace{1.5cm}
+          \\includegraphics[width=0.78\\textwidth,height=0.62\\textheight,keepaspectratio]{\\detokenize{$RUNNER_TEMP/book-assets/capa-barqueiro.jpg}}
+          \\par\\vspace{0.35cm}
+          {\\small Flégias, o barqueiro do Estige\\par}
+          \\vspace*{\\fill}
+          \\end{titlepage}
+          EOF
+
+          cat > "$RUNNER_TEMP/book-assets/cover.md" <<'EOF'
+          ![Capa: Flégias, o barqueiro do Estige](capa-barqueiro.jpg){width=78%}
+          \newpage
+          EOF
+          cat "$RUNNER_TEMP/book-assets/cover.md" "$merged" > "$RUNNER_TEMP/a-divina-comedia-with-cover.md"
+
+          pandoc "$RUNNER_TEMP/a-divina-comedia-with-cover.md" \
             --from=gfm \
             --standalone \
             --toc \
             --toc-depth=2 \
             --metadata title="A Divina Comédia" \
             --metadata author="Dante Alighieri" \
+            --metadata subtitle="Inferno · Purgatório · Paraíso" \
+            --resource-path="$RUNNER_TEMP/book-assets" \
+            --include-before-body="$RUNNER_TEMP/book-assets/cover-page.tex" \
             --pdf-engine=xelatex \
             -V mainfont="DejaVu Serif" \
             -V geometry:margin=2.2cm \
@@ -60,12 +96,18 @@ jobs:
           ebook-convert "$HOME/download/a-divina-comedia.pdf" \
             "$HOME/download/a-divina-comedia.epub" \
             --title "A Divina Comédia" \
-            --authors "Dante Alighieri"
+            --authors "Dante Alighieri" \
+            --cover "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg" \
+            --chapter "//h:h1" \
+            --level1-toc "//h:h1"
 
           ebook-convert "$HOME/download/a-divina-comedia.epub" \
             "$HOME/download/a-divina-comedia.mobi" \
             --title "A Divina Comédia" \
-            --authors "Dante Alighieri"
+            --authors "Dante Alighieri" \
+            --cover "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg" \
+            --chapter "//h:h1" \
+            --level1-toc "//h:h1"
 
       - name: Criar ou atualizar a release mais recente
         uses: softprops/action-gh-release@v3
