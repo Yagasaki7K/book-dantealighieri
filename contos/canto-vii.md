@@ -1,5 +1,7 @@
 # Canto VII
+
 Pluto - Círculo da avareza (4)
+
 Círculo da ira (5) - Rio Estige
 
 - Pape Satàn pape Satàn aleppe! - começava Pluto com sua voz rouca. Virgílio virou-se para mim e disse, com segurança:
@@ -32,4 +34,4 @@ Apesar da escuridão, pude ver, naquela água escura, vultos nus cobertos de lam
 
 - Filho - disse o bom mestre -, aqui tu vês as almas dos vencidos pela ira, e vou dizer-te ainda, se me crês, que embaixo d'água há gente que suspira, fazendo-a borbulhar. São aqueles vencidos pelo rancor, a ira contida e passiva, porém igualmente destrutiva. Eles gorgolam o lodo e formam as bolhas que pipocam sobre esta lama fétida.
 
-Depois demos uma grande volta, seguindo entre o rio e a orla seca, sempre observando aqueles que engoliam a lama, até chegarmos ao pé de uma alta torre, no final. 
+Depois demos uma grande volta, seguindo entre o rio e a orla seca, sempre observando aqueles que engoliam a lama, até chegarmos ao pé de uma alta torre, no final.

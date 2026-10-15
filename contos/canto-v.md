@@ -1,5 +1,7 @@
 # Canto V
+
 Minós - Círculo da luxúria (2)
+
 Espíritos de Paolo e Francesca
 
 Assim que entramos no segundo círculo, lá estava Minós, rangendo terrivelmente. Ele ficava na entrada e recepcionava os pecadores, julgando-os um por um. Ouvia suas confissões e proferia a sentença, se enrolando na própria cauda. O número de voltas que dava a sua cauda indicava quanto deveria descer o pecador para o seu lugar nas profundezas do inferno. Uma grande multidão se amontoava diante daquele juiz. Cada pecador falava, ouvia sua sentença, e era atirado no abismo.
@@ -36,4 +38,4 @@ Ao ouvir esse lamento, baixei o rosto, e permaneci assim, até Virgílio me desp
 
 - Não há maior dor, que lembrar da felicidade passada - disse ela - mas se teu grande desejo é saber, te direi como quem chora e fala. Líamos um dia a sós, sobre o amor que seduziu Lancelote. Várias vezes essa leitura nos ergueu olhar a olhar. Mas foi quando chegamos àquele ponto que falava do sorriso que desejava ser beijado por um perfeito amante, que este aqui que nunca me seja apartado, tremendo, beijou-me na boca naquele instante. Nosso Galeoto foi aquele livro e quem o escreveu. Desde aquele dia, não o lemos mais adiante.
 
-Enquanto uma alma contava a sua história triste, a outra chorava sem parar ao seu lado, e eu, comovido de piedade e dor, desmaiei, e caí como um corpo morto cai. 
+Enquanto uma alma contava a sua história triste, a outra chorava sem parar ao seu lado, e eu, comovido de piedade e dor, desmaiei, e caí como um corpo morto cai.

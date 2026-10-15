@@ -1,5 +1,7 @@
 # Canto III
+
 A porta do Inferno - Vestíbulo
+
 Rio Aqueronte - Caronte
 
     POR MIM SE VAI À CIDADE DOLENTE,
@@ -16,7 +18,7 @@ Rio Aqueronte - Caronte
 
 Estas palavras estavam escritas em tom escuro, no alto de um portal. Eu, assustado, confidenciei ao meu guia:
 
-- Mestre, estas palavras são muito duras. 
+- Mestre, estas palavras são muito duras.
 
 ![Dante e Virgílio diante da entrada do Inferno. Ilustração de Helder da Rocha.](https://www.stelle.com.br/imagens/C0.jpg)
 
@@ -58,4 +60,4 @@ Quando ele me viu, gritou:
 
 Caronte então se calou, mas pude ver que seus olhos vermelhos ainda ardiam de raiva. As almas, chorando amargamente, se amontoavam na orla e Caronte as embarcava, uma a uma, batendo nelas com o remo quando alguma hesitava. Depois seguiam, quebrando as ondas sujas rio Aqueronte, e antes de chegarem à outra margem, uma nova multidão já se formava deste lado.
 
-Enquanto Virgílio me falava sobre as almas que atravessavam o rio, houve um grande terremoto, seguido por uma ventania que inundou o céu com um clarão avermelhado. O susto foi tão intenso que eu desmaiei e caí num sono profundo. 
+Enquanto Virgílio me falava sobre as almas que atravessavam o rio, houve um grande terremoto, seguido por uma ventania que inundou o céu com um clarão avermelhado. O susto foi tão intenso que eu desmaiei e caí num sono profundo.
