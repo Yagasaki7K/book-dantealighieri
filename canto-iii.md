@@ -20,6 +20,8 @@ Estas palavras estavam escritas em tom escuro, no alto de um portal. Eu, assusta
 
 ![Dante e Virgílio diante da entrada do Inferno. Ilustração de Helder da Rocha.](https://www.stelle.com.br/imagens/C0.jpg)
 
+_Dante e Virgílio diante da entrada do Inferno. Ilustração de Helder da Rocha._
+
 - Não tenhas medo - respondeu Virgílio, experiente - mas não sejas fraco! Aqui chegamos ao lugar, do qual antes te falei, onde encontraríamos as almas sofredoras que já perderam seu livre poder de arbítrio. Não temas, pois tu não és uma delas, tu ainda vives.
 
 Em seguida, Virgílio segurou minha mão, sorriu para me dar confiança, e me guiou na direção daquele sinistro portal.
