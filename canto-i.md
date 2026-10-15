@@ -1,7 +1,7 @@
 # Canto I
 A selva escura - As feras - O espírito de Virgílio
 
-**Q**uando eu me encontrava na metade do caminho de nossa vida, me vi perdido em uma selva escura, e a minha vida não mais seguia o caminho certo. Ah, como é difícil descrevê-la! Aquela selva era tão selvagem, cruel, amarga, que a sua simples lembrança me traz de volta o medo. Creio que nem mesmo a morte poderia ser tão terrível. Mas, para que eu possa falar do bem que dali resultou, terei antes que falar de outras coisas, que do bem, passam longe.
+Quando eu me encontrava na metade do caminho de nossa vida, me vi perdido em uma selva escura, e a minha vida não mais seguia o caminho certo. Ah, como é difícil descrevê-la! Aquela selva era tão selvagem, cruel, amarga, que a sua simples lembrança me traz de volta o medo. Creio que nem mesmo a morte poderia ser tão terrível. Mas, para que eu possa falar do bem que dali resultou, terei antes que falar de outras coisas, que do bem, passam longe.
 
 Eu não sei como fui parar naquele lugar sombrio. Sonolento como eu estava, devo ter cochilado e por isso me afastei da via verdadeira. Mas, ao chegar ao pé de um monte onde começava a selva que se estendia vale abaixo, olhei para cima e vi aquela ladeira coberta com os primeiros raios do sol. A cena trouxe luz à minha vida, afastou de vez o medo e me deu novas esperanças. Decidi então subir aquele monte. Olhei para trás uma última vez, para aquela selva que nunca deixara uma alma viva escapar, descansei um pouco, e depois, iniciei a escalada. 
 
@@ -19,9 +19,9 @@ Quando eu já me encontrava na beira daquele vale escuro, meus olhos aos poucos 
 
 - Homem não mais - respondeu o vulto -, homem eu fui um dia. Nasci em Mântua, nos tempos de Júlio César e vivi em Roma no império de Augusto. Fui poeta e narrei a odisséia de Enéas, que fugiu de Tróia depois do incêndio. E tu, por que não sobes o precioso monte, princípio e causa de toda glória?
 
-- Tu és **Virgílio**? - perguntei, vergonhoso - Ora, tu és meu mestre e meu autor predileto! Foi contigo que aprendi o belo estilo poético que me deu louvor. Eu não subi o monte por causa dessa fera. Ela me faz tremer os pulsos. Ajuda-me, sábio famoso! Ajuda-me a enfrentá-la!
+- Tu és Virgílio? - perguntei, vergonhoso - Ora, tu és meu mestre e meu autor predileto! Foi contigo que aprendi o belo estilo poético que me deu louvor. Eu não subi o monte por causa dessa fera. Ela me faz tremer os pulsos. Ajuda-me, sábio famoso! Ajuda-me a enfrentá-la!
 
-- A ti convém seguir outra viagem - respondeu o poeta, ao me ver lacrimejando - pois essa fera, essa loba, é a mais feroz e insaciável de todas. Ela só partirá quando finalmente vier o **Lebreiro** que para ela será a dura morte. Ele não se alimentará nem de dinheiro, nem de terras; só a sua sabedoria, amor e virtude poderão nutri-lo. Ele virá para salvar a tua Itália caída. Ele irá caçar essa fera em todas as cidades até encontrá-la, quando então a matará e a conduzirá de volta ao inferno, de onde a Inveja, primeiro a trouxe para este mundo.
+- A ti convém seguir outra viagem - respondeu o poeta, ao me ver lacrimejando - pois essa fera, essa loba, é a mais feroz e insaciável de todas. Ela só partirá quando finalmente vier o Lebreiro que para ela será a dura morte. Ele não se alimentará nem de dinheiro, nem de terras; só a sua sabedoria, amor e virtude poderão nutri-lo. Ele virá para salvar a tua Itália caída. Ele irá caçar essa fera em todas as cidades até encontrá-la, quando então a matará e a conduzirá de volta ao inferno, de onde a Inveja, primeiro a trouxe para este mundo.
 
 Depois, me fez uma proposta:
 
