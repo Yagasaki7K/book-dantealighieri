@@ -1,9 +1,9 @@
 # Canto XVIII
-Malebolge - Círculo da fraude (8)
+## Malebolge, o círculo da fraude
 
-Valas dos sedutores, e aduladores
+### As valas dos sedutores e dos aduladores
 
-Existe um lugar no inferno chamado Malebolge, e é feito de pedra de cor ferrenha, como as paredes da encosta que o rodeia. No centro desse campo maligno há um poço muito largo e profundo, que descreverei quando lá chegarmos. A faixa que resta, entre o poço e a encosta, é redonda e se divide em dez valas, concêntricas, cada uma mais baixa que a anterior. Aqui há pontes que, desde o penhasco, atravessam os fossos de uma beira à outra, até a ultima que beira o poço central.
+Existe um lugar no inferno chamado Malebolge, e é feito de pedra de cor ferrenha, como as paredes da encosta que o rodeia. No centro desse campo maligno há um poço muito largo e profundo, que descreverei quando lá chegarmos. A faixa que resta, entre o poço e a encosta, é redonda e se divide em dez valas, concêntricas, cada uma mais baixa que a anterior. Aqui há pontes que, desde o penhasco, atravessam os fossos de umà beira à outra, até a última que beira o poço central.
 
 ![Mapa do oitavo círculo (Malebolge) com suas oito valas interligadas por pontes de pedra. Em cada vala é punida uma categoria de fraude. Ilustração de Helder da Rocha](https://www.stelle.com.br/imagens/Malebolge.jpg)
 
@@ -25,7 +25,7 @@ Naquele instante, um diabo chegou e lhe surrou com o chicote, dizendo:
 
 - Olha aquele que vem, imponente, que não solta uma lágrima sequer de dor. É Jasão, condenado por ter seduzido a jovem Ísfile de Lemnos e depois tê-la abandonado. Ele a seduziu e depois a deixou, sozinha, com criança para criar. Tal pecado é punido com esta pena, e assim, também, Medéia tem aqui a sua vingança.
 
-Tendo atravessado a ponte que unia a primeira beira à segunda, seguimos até a ponte seguinte. Antes de subir, já ouvíamos as respirações ofegantes das almas que sofriam na segunda vala, respirando um vapor nojoso que emanava de um rio de podres fezes ácidas. Tão funda era esta vala que só foi possível ver seu fundo quando chegamos à parte mais elevada e central da ponte. Lá vimos gente imersa no esgoto asqueroso. 
+Tendo atravessado a ponte que unia a primeirà beira à segunda, seguimos até a ponte seguinte. Antes de subir, já ouvíamos as respirações ofegantes das almas que sofriam na segunda vala, respirando um vapor nojoso que emanava de um rio de podres fezes ácidas. Tão funda era esta vala que só foi possível ver seu fundo quando chegamos à parte mais elevada e central da ponte. Lá vimos gente imersa no esgoto asqueroso. 
 
 ![Sedutores e rufiões (em sentidos opostos) sendo açoitados por diabos na primeira vala. No primeiro plano estão os aduladores imersos no esterco (segunda vala). Ilustração de Sandro Botticelli (século XV).](https://www.stelle.com.br/imagens/C8_2.jpg)
 

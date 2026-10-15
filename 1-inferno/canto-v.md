@@ -1,6 +1,6 @@
 # Canto V
 
-Minós - Círculo da luxúria (2)
+## Minós, Paolo e Francesca
 
 Espíritos de Paolo e Francesca
 

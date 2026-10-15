@@ -1,6 +1,6 @@
 # Canto XXVIII
-Vala dos separatistas
-Espíritos de Maomé e Bertran de Born
+## Os semeadores de discórdia
+
 
 Quem poderia, mesmo fazendo uso da melhor prosa, narrar as cenas de sangue e das feridas, que eu vi naquele triste lugar? Todas as línguas, por certo, estariam falidas, pois nossa memória e nosso vocabulário não são suficientes para compreender tamanha dor. Nem nos campos de batalha das piores guerras se viu tantos corpos estraçalhados, com deformações e feridas tão terríveis, quanto os que povoavam aquela nona vala.
 

@@ -1,8 +1,6 @@
 # Canto III
 
-A porta do Inferno - Vestíbulo
-
-Rio Aqueronte - Caronte
+## A porta do Inferno, o vestíbulo e Caronte
 
     POR MIM SE VAI À CIDADE DOLENTE,
     POR MIM SE VAI À ETERNA DOR ,

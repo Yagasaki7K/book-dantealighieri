@@ -1,9 +1,9 @@
 # Canto XIV
-Deserto incandescente - Chuva de brasas
+## O deserto em brasa e a chuva de fogo
 
-Riacho Flegetonte
+### O riacho Flegetonte
 
-Antes ntes de partir, a minha compaixão pela alma que tanto amava a nossa Florença me levou a recolher os galhos espalhados e devolvê-los àquele tronco, que agora permanecia calado.
+Antes de partir, a compaixão pela alma que tanto amava Florença me levou a recolher os galhos espalhados e devolvê-los ao tronco, que então permaneceu em silêncio.
 
 Continuamos a jornada até chegarmos ao lugar onde se separa o terceiro giro do segundo. O lugar era um estéril deserto de areia grossa e quente, cercado pela selva dos suicidas, assim como o rio de sangue cercava a floresta.
 

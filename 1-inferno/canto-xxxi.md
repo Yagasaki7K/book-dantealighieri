@@ -1,19 +1,19 @@
 # Canto XXXI
-Gigantes - Nemrod - Efialte - Anteu
+## Os gigantes, Nemrod, Efialte e Anteu
 
-Dando as costas àquele vale miserável, escalamos o rochedo e chegamos à última beira, que atravessamos em silêncio. A escuridão era imensa e meus olhos podiam ver muito pouco, quando ouvi uma trombeta soar tão forte que parecia o som de um trovão. O estrondo me fez voltar o olhar para o horizonte onde percebi o que pareciam ser torres de uma cidade.
+Dando as costas àquele vale miserável, escalamos o rochedo e chegamos à últimà beira, que atravessamos em silêncio. A escuridão era imensa e meus olhos podiam ver muito pouco, quando ouvi uma trombeta soar tão forte que parecia o som de um trovão. O estrondo me fez voltar o olhar para o horizonte onde percebi o que pareciam ser torres de uma cidade.
 
 - Mestre - perguntei a Virgílio -, que cidade é aquela?
 
 - A escuridão o impede de ver o que realmente são essas torres. - respondeu - Não é uma cidade. O que vês são as silhuetas de gigantes que estão dentro do poço e, por serem tão altos, parte do seu corpo desponta além do nível deste círculo.
 
-Dito isto, continuamos a caminhar na direção das "torres". À medida em que nos aproximávamos da beira do poço, a neblina se tornava menos densa e os gigantes começavam a tomar forma, aparecendo à minha vista ao mesmo tempo em que o meu medo crescia. Finalmente pude distinguir um dos rostos, os ombros, os braços, o peito e boa parte do ventre de um deles. O rosto, acredito, era tão largo quando a cúpula de São Pedro em Roma, e em igual proporção era todo o resto de seu corpo.
+Dito isto, continuamos a caminhar na direção das "torres". À medida em que nos aproximávamos dà beira do poço, a neblina se tornava menos densa e os gigantes começavam a tomar forma, aparecendo à minha vista ao mesmo tempo em que o meu medo crescia. Finalmente pude distinguir um dos rostos, os ombros, os braços, o peito e boa parte do ventre de um deles. O rosto, acredito, era tão largo quando a cúpula de São Pedro em Roma, e em igual proporção era todo o resto de seu corpo.
 
 - Raphael may amech zabi almi - gritou o gigante.
 
 - Ó alma tola - respondeu Virgílio - fica com essa tua trompa, que está presa a teu peito, e faze uso dela para descarregar tua raiva! - e depois voltou-se para mim - Ele mesmo se acusa. Ele é Nemrod, o construtor da torre de Babel. Para ele, língua alguma faz sentido, portanto vamos deixá-lo pois é perda de tempo tentar falar com ele.
 
-Deixamos Nemrod e viramos à esquerda, prosseguindo pela beirada, até encontrarmos mais adiante outro gigante acorrentado. Sua mão esquerda estava atada na frente, sua mão direita estava presa atrás e uma enorme corrente o apertava, dando cinco voltas do pescoço até a cintura, até onde eu pude ver.
+Deixamos Nemrod e viramos à esquerda, prosseguindo pelà beirada, até encontrarmos mais adiante outro gigante acorrentado. Sua mão esquerda estava atada na frente, sua mão direita estava presa atrás e uma enorme corrente o apertava, dando cinco voltas do pescoço até a cintura, até onde eu pude ver.
 
 - Ele quis provar que era melhor que Jove - disse-me o mestre - e aqui tem a sua recompensa. É Efialte, cujos braços que antes moveu contra os deuses agora permanecem imóveis.
 

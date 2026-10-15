@@ -1,9 +1,9 @@
 # Canto XII
-Minotauro - Centauros
+## O Minotauro e os centauros
 
-Círculo da violência (7) - Rio de sangue
+### O círculo da violência e o rio de sangue
 
-Descemos por uma rampa formada por um enorme deslizamento de pedras, causado provavelmente por um terremoto ou pela contínua erosão. O barranco derrubado esculpia vários caminhos íngremes e irregulares da beira do precipício até embaixo, permitindo a descida com dificuldade. Quando descíamos por esse caminho tortuoso, encontramos, na beira do barranco destruído, o Minotauro de Creta. O touro ficou tão enfurecido quando nos viu que mordeu suas próprias mãos de raiva. Mas Virgílio logo o afastou, gritando:
+Descemos por uma rampa formada por um enorme deslizamento de pedras, causado provavelmente por um terremoto ou pela contínua erosão. O barranco derrubado esculpia vários caminhos íngremes e irregulares dà beira do precipício até embaixo, permitindo a descida com dificuldade. Quando descíamos por esse caminho tortuoso, encontramos, nà beira do barranco destruído, o Minotauro de Creta. O touro ficou tão enfurecido quando nos viu que mordeu suas próprias mãos de raiva. Mas Virgílio logo o afastou, gritando:
 
 - Pensas talvez que estás vendo o duque de Atenas, que no mundo te trouxe a morte? Vai embora, besta, que este só vem aqui para conhecer vossas penas!
 

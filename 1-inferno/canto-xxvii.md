@@ -1,5 +1,5 @@
 # Canto XXVII
-Espírito do Frade Guido de Montefeltro
+## Guido de Montefeltro
 
 A chama agora estava imóvel e quieta. Nada mais falou e já se afastava com a licença do poeta quando uma outra, que vinha logo atrás, chamou nossa atenção à sua ponta que liberava ruídos estranhos. A ponta começou a mover-se, como se fosse uma língua, até que ouvimos:
 
@@ -15,7 +15,7 @@ E eu, que já estava preparado para lhe responder, comecei:
 
 Falei-lhe ainda de Forli, Lamone, Santerno e outras cidades da Romanha. No final, lhe pedi:
 
-- Agora peço que me conte quem és, para que eu possa estender, no mundo, a tua fama.
+- Agora peço que me conte quem és, para que eu consiga estender, no mundo, a tua fama.
 
 - Se eu acreditasse que eu estava falando com uma alma que iria voltar ao mundo, esta chama não mais se moveria, mas como nunca, deste abismo, alma alguma jamais escapou, sem medo de infâmia eu te respondo. Fui guerreiro e depois frade franciscano, acreditando que assim poderia corrigir os meus erros do passado. Arrependi-me dos meus pecados e confessei meus erros. Ai miserável! E bem teria valido se não fosse aquele príncipe dos novos fariseus que me pediu para ajudá-lo a destruir a fortaleza Perestrina. Para ele, não importava o cargo supremo que ocupava, nem os votos sagrados e nem o cordão que eu usava. Ele me pediu conselho, e eu calei. Mas depois falou de novo: "Não sejas desconfiado! Eu já te absolvo dos pecados que vieres a cometer. O céu eu posso fechar ou abrir, como tu sabes, pois são duas as chaves que meu antecessor não soube guardar." Eu, convencido pelos seus argumentos, aceitei, e disse: "Padre, desde que me absolvas do pecado que estou prestes a cometer, te aconselharei: Prometa a eles, anistia. Depois, quando obedecerem, volte atrás e não cumpra a promessa! Se assim fizeres, triunfarás!" No momento da minha morte, São Francisco veio buscar minha alma, mas antes que ele pudesse me levar um querubim negro se antecipou e, utilizando argumentos lógicos, demonstrou que eu deveria ir para o inferno: "Para baixo ele virá comigo, pois deu conselho fraudulento. Não se pode absolver o impenitente, nem pode o arrependido ainda querer pecar, pois assim nada vale seu arrependimento." Coitado de mim. Quando ele me tomou ainda falou: "Nem imaginavas que eu pudesse argumentar tão bem, não foi?" O demônio me levou até Minós, que se enrolou no rabo oito vezes e, de tanta raiva ainda o mordeu, me enviando a esta oitava vala para ser prisioneiro do fogo eterno.
 

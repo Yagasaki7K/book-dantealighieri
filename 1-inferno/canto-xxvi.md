@@ -1,9 +1,9 @@
 # Canto XXVI
-Vala dos maus conselheiros - Espírito de Ulisses
+## Os maus conselheiros e Ulisses
 
 Alegra-te Florença pois és tão grande que até pelo inferno o teu nome se expande! Cinco eminentes florentinos encontrei naquele fosso, o que me fez sentir vergonha de ti.
 
-Subimos pela escada de pedras que havia sido o caminho pelo qual havíamos descido. Ele ia na frente e me puxava rochedo acima, apoiando-se nas rachaduras, por onde o pé não podia avançar sem a mão.
+Subimos pela escada de pedras que era o caminho por onde havíamos descido. Ele ia na frente e me puxava rochedo acima, apoiando-se nas rachaduras, por onde o pé não podia avançar sem a mão.
 
 A oitava vala resplandecia de chamas. Isto pude ver quando meus pés chegaram a um ponto onde o fundo já aparecia. As chamas não estavam imóveis. Elas se moviam continuamente como gente o que me levou a imaginar que mantinham em sua custódia um pecador. O meu guia, como sempre adivinhando meu pensamento, confirmou:
 

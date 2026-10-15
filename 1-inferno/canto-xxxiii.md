@@ -1,6 +1,6 @@
 # Canto XXXIII
-Espírito do Conde Ugolino - Ptoloméia
-Espírito do Frei Alberigo
+
+## O conde Ugolino, Ptolomeia e frei Alberigo
 
 O pecador virou-se, afastou a boca daquela terrível refeição, limpou seus lábios nos cabelos do crânio que devorava, e falou:
 
@@ -8,7 +8,7 @@ O pecador virou-se, afastou a boca daquela terrível refeição, limpou seus lá
 
 Quando terminou de falar, virou seu rosto para a sua vítima e voltou a atacar aquele crânio com os dentes, como um cão que não solta o seu osso. Ai Pisa, que vergonha és para a nossa Itália! Se o conde Ugolino era culpado de ter traído um dos castelos teus, nada justificava que seus filhos fossem torturados.
 
-Seguimos adiante até o lugar onde o gelo maltrata de forma mais dura os pecadores. Com os rostos virados para cima, nem nos olhos a sua angustia encontra alívio, pois lá se forma uma barreira de gelo no primeiro choro, quando as lágrimas congelam e preenchem toda a cava do olho.
+Seguimos adiante até o lugar onde o gelo maltrata de forma mais dura os pecadores. Com os rostos virados para cima, nem nos olhos a sua angústia encontra alívio, pois lá se forma uma barreira de gelo no primeiro choro, quando as lágrimas congelam e preenchem toda a cava do olho.
 
 Embora o frio tivesse afastado toda a sensação do meu rosto, comecei a sentir uma leve brisa e perguntei ao mestre:
 

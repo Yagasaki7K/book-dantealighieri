@@ -1,5 +1,5 @@
 # Canto XXV
-Transformação em répteis
+## As transformações em serpentes
 
 No final de seu discurso, o ladrão fechou a mão em punho deixando apenas o dedo médio, ergueu-a para o alto e gritou:
 

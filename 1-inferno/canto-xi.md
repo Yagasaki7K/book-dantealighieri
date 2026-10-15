@@ -1,7 +1,7 @@
 # Canto XI
-Túmulo do papa Anastácio
+## O túmulo do papa Anastácio e a justiça infernal
 
-Explicação sobre a justiça infernal
+
 
 Chegamos à beira de um precipício, onde havia um barranco derrubado, cujas pedras formavam uma grande rampa que permitiria nossa descida. Porém, o ar denso e fedorento que emanava do abismo, nos afastou de sua borda, de forma que tivemos que nos proteger sob a cobertura de uma tumba onde estava escrito: "Aqui jaz o papa Anastácio que Fotino desviou do bom caminho".
 

@@ -1,5 +1,5 @@
 # Canto XXIII
-Vala dos hipócritas - Frades gaudentes
+## Os hipócritas e os frades gaudentes
 
 Caminhávamos sem companhia: um na frente e o outro atrás. Durante a caminhada voltei a pensar naqueles demônios. Se por nossa causa eles sofreram dano, eles devem estar irados. Considerando os seus maus instintos, certamente não deixarão de vir atrás de nós. Esses pensamentos deixavam meus cabelos em pé e por causa do medo eu olhava para trás o tempo todo.
 

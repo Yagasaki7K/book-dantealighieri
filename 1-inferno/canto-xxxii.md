@@ -1,11 +1,11 @@
 # Canto XXXII
-Lago Cócito - Caína - Antenora - Espírito de Bocca
+## O lago Cócito, Caína, Antenora e Bocca
 
 ![Mapa do nono círculo (Cócito). Ilustração de Helder da Rocha](https://www.stelle.com.br/imagens/Cocito.jpg)
 
 _Mapa do nono círculo (Cócito). Ilustração de Helder da Rocha_
 
-hegamos ao fundo do Universo depois de descer um pouco mais, abaixo do ponto onde o gigante havia nos deixado. Eu ainda olhava admirado para o altíssimo muro, quando ouvi meu mestre falar:
+CChegamos ao fundo do Universo depois de descer um pouco mais, abaixo do ponto onde o gigante havia nos deixado. Eu ainda olhava admirado para o altíssimo muro, quando ouvi meu mestre falar:
 
 - Olha para baixo e toma cuidado para não pisar nas cabeças dos pobres sofredores.
 
@@ -47,7 +47,7 @@ Com isto eu agarrei o desgraçado pelos cabelos e disse:
 
 Eu já tinha arrancado um feixe dos seus cabelos quando um outro gritou:
 
-- O que é que tu tens Bocca? Já não basta agüentar o ruído do teu queixo que bate sem parar? Por que não te calas?
+- O que é que tu tens Bocca? Já não basta aguentar o ruído do teu queixo que bate sem parar? Por que não te calas?
 
 - Ora, ora - disse eu - não é preciso mais que fales, maldito traidor. Bem que eu desconfiei. Não te preocupes que eu levarei ao mundo a verdade sobre ti.
 

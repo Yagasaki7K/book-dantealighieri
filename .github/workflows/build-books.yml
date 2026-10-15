@@ -1,0 +1,86 @@
+name: Build and publish A Divina Comédia
+
+on:
+  push:
+    paths:
+      - '1-inferno/**/*.md'
+      - '2-purgatorio/**/*.md'
+      - '3-paraiso/**/*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: book-release-latest
+  cancel-in-progress: false
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar ferramentas de publicação
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended calibre
+
+      - name: Juntar capítulos e criar PDF, EPUB e MOBI em ~/download
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p "$HOME/download"
+          merged="$RUNNER_TEMP/a-divina-comedia.md"
+          : > "$merged"
+          for book in 1-inferno 2-purgatorio 3-paraiso; do
+            if [[ -d "$book" ]]; then
+              printf '# %s\n' "${book#*-}" >> "$merged"
+              while IFS= read -r -d '' file; do
+                printf '\n\\newpage\n\n' >> "$merged"
+                cat "$file" >> "$merged"
+                printf '\n\n' >> "$merged"
+              done < <(find "$book" -maxdepth 1 -type f -name '*.md' -print0 | sort -zV)
+            fi
+          done
+
+          pandoc "$merged" \
+            --from=gfm \
+            --standalone \
+            --toc \
+            --toc-depth=2 \
+            --metadata title="A Divina Comédia" \
+            --metadata author="Dante Alighieri" \
+            --pdf-engine=xelatex \
+            -V mainfont="DejaVu Serif" \
+            -V geometry:margin=2.2cm \
+            -o "$HOME/download/a-divina-comedia.pdf"
+
+          ebook-convert "$HOME/download/a-divina-comedia.pdf" \
+            "$HOME/download/a-divina-comedia.epub" \
+            --title "A Divina Comédia" \
+            --authors "Dante Alighieri"
+
+          ebook-convert "$HOME/download/a-divina-comedia.epub" \
+            "$HOME/download/a-divina-comedia.mobi" \
+            --title "A Divina Comédia" \
+            --authors "Dante Alighieri"
+
+      - name: Criar ou atualizar a release mais recente
+        uses: softprops/action-gh-release@v3
+        with:
+          tag_name: latest
+          name: A Divina Comédia — versão mais recente
+          target_commitish: ${{ github.sha }}
+          body: |
+            Edição mais recente gerada automaticamente a partir dos capítulos disponíveis nas pastas dos livros.
+
+            Esta release é atualizada quando um arquivo Markdown de capítulo é alterado.
+          files: |
+            /home/runner/download/a-divina-comedia.pdf
+            /home/runner/download/a-divina-comedia.epub
+            /home/runner/download/a-divina-comedia.mobi
+          fail_on_unmatched_files: true
+          make_latest: true
+          preserve_order: true

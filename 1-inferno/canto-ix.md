@@ -1,9 +1,10 @@
-# Erínias e Medusa
-Círculo da heresia (6) - Túmulos
+# Canto IX
+
+## As Erínias, Medusa e a entrada na cidade de Dite
 
 O medo me tomou quando vi o semblante do mestre, que se aproximava, e dizia quase para si:
 
-- Precisamos triunfar, se não... Mas não, ora! A ajuda nos fora prometida! Como demora!
+- Precisamos triunfar, senão... Mas não, ora! A ajuda nos fora prometida! Como demora!
 
 Eu vi muito bem como ele mudou de tom ao tentar encobrir o que falara, ou a palavra que não havia pronunciado, por isso mais medo tive ainda, pois a frase que ele deixara incompleta, eu completei com sentido pior.
 

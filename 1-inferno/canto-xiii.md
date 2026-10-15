@@ -1,5 +1,5 @@
 # Canto XIII
-Hárpias - Selva dos suicidas
+## As Harpias e a selva dos suicidas
 
 Antes que Nesso tivesse terminado de atravessar o vau do rio de sangue, já estávamos nós em um bosque, não verde, mas de folhagens foscas, sem frutos, sem ramos e com os troncos cobertos de espinhos. Era ali que faziam seus ninhos as vis Hárpias - seres de grandes asas e rostos humanos, garras nos pés e ventres emplumados que lançam das alturas lamentos misteriosos.
 

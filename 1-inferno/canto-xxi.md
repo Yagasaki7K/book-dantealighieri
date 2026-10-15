@@ -1,5 +1,5 @@
 # Canto XXI
-Vala dos corruptos - Malebranche (demônios)
+## Os corruptos e os Malebranche
 
 De cima de outra ponte paramos para ver a próxima fissura de Malebolge, que era incrivelmente escura. Lá embaixo um grosso breu fervia. Eu olhava mas nada via a não ser as bolhas de piche que a fervura levantava. Enquanto meus olhos procuravam alguma coisa naquela escuridão, meu guia gritou:
 
@@ -33,7 +33,7 @@ O mestre então gritou, ordenando que eu saísse do meu esconderijo. Eu obedeci 
 
 - Vou tocá-lo! - gritou um - Aonde? - perguntou outro. Mas Malacoda voltou-se rapidamente para eles e os afastou, gritando:
 
-- Fica quieto Scarmiglione! - e depois virou-se para nós, dizendo - Esta ponte sobre a sexta vala está em ruínas. Se vocês quiserem prosseguir, devem continuar por esta beira e mais adiante irão encontrar outra ponte. De ontem, cinco horas mais que agora, já são 1266 anos desde que esta via foi destruída. Para lá mandarei alguns dos meus guardas que irão fiscalizar os pecadores no fosso. Podem ir com eles. Eles se comportarão.
+- Fica quieto Scarmiglione! - e depois virou-se para nós, dizendo - Esta ponte sobre a sexta vala está em ruínas. Se vocês quiserem prosseguir, devem continuar por està beira e mais adiante irão encontrar outra ponte. De ontem, cinco horas mais que agora, já são 1266 anos desde que esta via foi destruída. Para lá mandarei alguns dos meus guardas que irão fiscalizar os pecadores no fosso. Podem ir com eles. Eles se comportarão.
 
 E então Malacoda designou 10 diabos para nos escoltar, chamando-os um a um pelo nome: Calcabrina, Alichino, Cagnazzo, Libicocco, Draghignazzo, Graffiacane, Ciriatto, Farfarello, Rubicante e Barbariccia, o chefe da expedição.
 
@@ -41,4 +41,4 @@ E então Malacoda designou 10 diabos para nos escoltar, chamando-os um a um pelo
 
 - Não há o que temer - respondeu o mestre - deixa que eles mostrem seus dentes à vontade. Eles o fazem para as almas que fervem e não para nós.
 
-Antes de seguirmos pela beira à esquerda, os demônios saudaram Malacoda soprando, com a língua firme entre os dentes, fazendo um som obsceno. Esperavam um sinal para partir. O demônio então, os respondeu de volta com o ânus em som de trombeta. 
+Antes de seguirmos pelà beira à esquerda, os demônios saudaram Malacoda soprando, com a língua firme entre os dentes, fazendo um som obsceno. Esperavam um sinal para partir. O demônio então, os respondeu de volta com o ânus em som de trombeta. 

@@ -1,9 +1,9 @@
 # Canto XXXIV
-Judeca - Lúcifer - Bruto - Cássio
+## Lúcifer, Judas, Bruto e Cássio
 
-Judas - Centro da Terra
+### Judas e o centro da Terra
 
-- Estamos diante das bandeiras do rei do Inferno - disse-me Virgílio -, olha pra frente e vê se consegues discerni-lo..
+- Estamos diante das bandeiras do rei do Inferno — disse Virgílio. — Olha para a frente e vê se consegues distingui-lo.
 
 Comecei a ver, na distância, o que parecia ser um grande moinho, que provocava aquelas rajadas de vento gelado. Estávamos chegando ao lugar onde eram punidos aqueles que traíram os seus benfeitores. Neste lugar sombrio e gelado, as almas estavam completamente submersas no gelo, transparecendo como palha em cristal. Algumas estavam de pé, outras de ponta-cabeça, outras atravessadas, outras em arco, outras curvadas e outras invertidas.
 
@@ -15,11 +15,11 @@ Não me perguntes, leitor, como eu fiquei fraco e gelado, pois não há palavras
 
 - Esse da frente é Judas Iscariote - disse-me o mestre - que sofre pena dobrada, com a cabeça para dentro e as pernas para fora. O que é mordido pela boca preta é Bruto e o outro é Cássio. Mas em breve será noite. Está na hora de partirmos, pois já vimos tudo o que há para se ver. Agora, agarre-se em mim firmemente.
 
-Obedeci-o e ele me carregou, se dirigindo para as costas de Lúcifer. Aguardou um pouco e quando as asas estavam altas, saltou da beira de um fosso para a escuridão, mas logo agarrou-se às costas peludas do Demônio. Descemos mais ainda. Estávamos entre as costas de Lúcifer e às crostas congeladas do Cócito. Quando chegamos à altura da junção da coxa ao tronco do gigante infernal, meu guia, já mostrando sinais de fadiga, inverteu o corpo e, sem soltar os pelos do monstro, seguiu, como se subisse, me fazendo pensar que voltávamos para o inferno.
+Obedeci-o e ele me carregou, se dirigindo para as costas de Lúcifer. Aguardou um pouco e quando as asas estavam altas, saltou dà beira de um fosso para a escuridão, mas logo agarrou-se às costas peludas do Demônio. Descemos mais ainda. Estávamos entre as costas de Lúcifer e às crostas congeladas do Cócito. Quando chegamos à altura da junção da coxa ao tronco do gigante infernal, meu guia, já mostrando sinais de fadiga, inverteu o corpo e, sem soltar os pelos do monstro, seguiu, como se subisse, me fazendo pensar que voltávamos para o inferno.
 
 - Segura firme - disse ele - pois não há outro caminho. Só por estas escadas poderemos escapar de tanto mal.
 
-E saímos por uma brecha na rocha. Virgílio, visivelmente exausto por ter me carregado, me colocou numa beira para que eu me sentasse. Olhei para cima procurando por Lúcifer mas não o achei. Encontrei-o lá embaixo de pernas para o ar. Virgílio me confundiu ainda mais, falando:
+E saímos por uma brecha na rocha. Virgílio, visivelmente exausto por ter me carregado, me colocou numà beira para que eu me sentasse. Olhei para cima procurando por Lúcifer mas não o achei. Encontrei-o lá embaixo de pernas para o ar. Virgílio me confundiu ainda mais, falando:
 
 - Levanta-te pois o caminho é longo. O dia já amanhece!
 

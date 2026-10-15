@@ -1,9 +1,9 @@
 # Canto I
-A selva escura - As feras - O espírito de Virgílio
+## A selva escura, as feras e o espírito de Virgílio
 
-Quando eu me encontrava na metade do caminho de nossa vida, me vi perdido em uma selva escura, e a minha vida não mais seguia o caminho certo. Ah, como é difícil descrevê-la! Aquela selva era tão selvagem, cruel, amarga, que a sua simples lembrança me traz de volta o medo. Creio que nem mesmo a morte poderia ser tão terrível. Mas, para que eu possa falar do bem que dali resultou, terei antes que falar de outras coisas, que do bem, passam longe.
+No meio do caminho da vida, encontrei-me perdido numa selva escura, longe da estrada certa. Ah, como é difícil descrevê-la! Era tão selvagem, áspera e ameaçadora que só de lembrar volto a sentir medo. Talvez nem a própria morte fosse tão terrível. Mas, para contar o bem que dali nasceu, preciso primeiro falar de tudo o que encontrei de ruim.
 
-Eu não sei como fui parar naquele lugar sombrio. Sonolento como eu estava, devo ter cochilado e por isso me afastei da via verdadeira. Mas, ao chegar ao pé de um monte onde começava a selva que se estendia vale abaixo, olhei para cima e vi aquela ladeira coberta com os primeiros raios do sol. A cena trouxe luz à minha vida, afastou de vez o medo e me deu novas esperanças. Decidi então subir aquele monte. Olhei para trás uma última vez, para aquela selva que nunca deixara uma alma viva escapar, descansei um pouco, e depois, iniciei a escalada. 
+Não sei como fui parar naquele lugar sombrio. Como estava sonolento, talvez tenha cochilado e me afastado da estrada verdadeira. Ao chegar perto de um monte, onde começava a selva que se estendia pelo vale, olhei para cima e vi a encosta iluminada pelos primeiros raios de sol. Aquela luz me trouxe esperança e afastou parte do medo. Decidi subir. Olhei uma última vez para trás, para a selva da qual ninguém parecia escapar, descansei um pouco e comecei a escalada.
 
 ![Dante perdido na selva escura. Ilustração de Gustave Doré (séc XIX).](https://www.stelle.com.br/imagens/Floresta.jpg)
 
@@ -15,7 +15,7 @@ O dia já raiava e o sol nascia com aquelas mesmas estrelas que acompanharam o m
 
 Mas a minha esperança durou pouco e o medo retornou quando vi surgir, diante de mim, um leão. Ele parecia avançar na minha direção, com a cabeça erguida, tão faminto e raivoso que até o próprio ar parecia temê-lo. E depois veio uma loba, magra e cobiçosa, cuja visão tornou minha alma tão pesada, pelo medo que me possuiu, que não vi mais esperança alguma na escalada. A loba avançava, lentamente, e me fazia descer, me empurrando de volta para aquele lugar onde a luz do Sol não entra.
 
-Quando eu já me encontrava na beira daquele vale escuro, meus olhos aos poucos perceberam um vulto que se aproximava, que apagado estivera, talvez por excessivo silêncio.
+Quando eu já me encontrava nà beira daquele vale escuro, meus olhos aos poucos perceberam um vulto que se aproximava, que apagado estivera, talvez por excessivo silêncio.
 
 - Tenha piedade de mim - gritei ao vê-lo - quem quer que sejas, sombra ou homem vivo!
 

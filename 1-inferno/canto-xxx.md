@@ -1,7 +1,7 @@
 # Canto XXX
-Falsificadores - Impostores - Perjuros
+## Os falsificadores, impostores e perjuros
 
-Espírito do Mestre Adamo
+### Mestre Adamo
 
 Nem entre os loucos mais insanos se viu fúria e crueldade como aquela que se apossou de duas sombras pálidas, nuas, que se perseguiam pelo vale escuro como porcos soltos nas pocilgas. Uma delas afundou os dentes no pescoço de Capocchio e saiu arrastando-o para longe, esfolando seu ventre no chão áspero.
 

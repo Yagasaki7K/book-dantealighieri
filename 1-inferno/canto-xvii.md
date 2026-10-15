@@ -1,13 +1,13 @@
 # Canto XVII
-Gerión - Espíritos de famílias da alta nobreza
+## Gerião e os usurários
 
 - Eis a fera com sua cauda aguda, que atravessa os montes e rompe os muros e armas! Eis aquela que em todo o mundo transpira e fede! - começou a me falar o mestre, enquanto acenava para a fera sinalizando que ela viesse à beira da pedra onde estávamos.
 
-E ela subiu com a cabeça e o busto, mas sobre a beira não descansou sua cauda. A sua face era a face de um homem justo, tão benignos mostravam-se seus traços, e de serpente era o resto de seu corpo. As suas garras e o seu tronco eram peludas. Tinha o dorso e peito ornados com pinturas de argolas e laços. Toda a sua cauda no vazio vibrava, torcendo sua forquilha venenosa, armada na ponta como um escorpião.
+E ela subiu com a cabeça e o busto, mas sobre à beira não descansou sua cauda. A sua face era a face de um homem justo, tão benignos mostravam-se seus traços, e de serpente era o resto de seu corpo. As suas garras e o seu tronco eram peludas. Tinha o dorso e peito ornados com pinturas de argolas e laços. Toda a sua cauda no vazio vibrava, torcendo sua forquilha venenosa, armada na ponta como um escorpião.
 
 - Vamos! - chamou o mestre - Vamos até a fera que acolá se assenta!
 
-Descemos pelo lado direito do dique e demos dez passos pela sua beira inferior, evitando as areias quentes.
+Descemos pelo lado direito do dique e demos dez passos pela suà beira inferior, evitando as areias quentes.
 
 Quando estávamos ao lado de Gerión, eu percebi, um pouco mais distante, algumas pessoas acocoradas na areia junto à beira do precipício.
 
@@ -21,7 +21,7 @@ Dos seus olhos escapava-lhes a dor. Com as mãos, defendiam-se como podiam do so
 
 Falou e depois fez caretas terríveis, puxando a língua por cima do nariz. Eu, assustado, voltei para o lugar onde o mestre já me aguardava. Quando cheguei, Virgílio já estava montado sobre a garupa da fera.
 
-- Ora, tenha coragem! - disse, tranqüilo - Monta aqui na minha frente, pois atrás ficarei eu para evitar que sua cauda possa fazer-lhe mal.
+- Ora, tenha coragem! - disse, tranquilo - Monta aqui na minha frente, pois atrás ficarei eu para evitar que sua cauda possa fazer-lhe mal.
 
 Subi então naquele bicho horrendo, tomado de medo e horror. O mestre me segurou firme e então gritou:
 

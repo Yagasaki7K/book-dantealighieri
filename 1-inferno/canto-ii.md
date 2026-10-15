@@ -1,7 +1,7 @@
 # Canto II
-Razão da viagem - Beatriz
+## A razão da viagem e Beatriz
 
-Já anoitecia quando iniciamos a jornada. Ó Musas, ó grande gênio, me ajudem para que eu possa relatar aqui sem erro esta viagem que está escrita para sempre em minha mente! E então comecei:
+Já anoitecia quando iniciamos a jornada. Ó Musas, ó grande gênio, me ajudem para que eu consiga relatar aqui sem erro esta viagem que está escrita para sempre em minha mente! E então comecei:
 
 - Ó poeta que me guias, julga minha virtude e dize se é compatível com o caminho árduo que me confias. Não sou ninguém diante de Paulo ou Enéas. Não consigo crer que eu seja digno de tal, nem acho que outro pensaria da mesma forma.
 

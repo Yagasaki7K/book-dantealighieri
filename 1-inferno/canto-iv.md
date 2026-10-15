@@ -1,13 +1,13 @@
 # Canto IV
-Limbo (Círculo 1) - Castelo dos iluminados
+## O Limbo e o castelo dos sábios
 
 Acordei ao som de um trovão, já nas bordas abissais do fosso infernal, onde ecoam gritos infinitos. Tão escuro e nebuloso era que, por mais que eu tentasse forçar a vista ao fundo, não conseguia discernir coisa alguma.
 
 - Desçamos ao mundo onde nada se vê. - disse Virgílio - Eu irei na frente e tu me seguirás. - e fez uma indicação para que eu o seguisse. Ele estava com uma aparência muito pálida, e por isso me assustei, hesitando por um instante.
 
-- Como queres que eu te siga tranqüilo, se estás com medo? - perguntei.
+- Como queres que eu te siga tranquilo, se estás com medo? - perguntei.
 
-- Não é medo. - respondeu - A piedade me clareia o rosto, por causa da angustia das gentes desamparadas que aqui sofrem. Andemos, pois temos ainda um longo caminho pela frente.
+- Não é medo. - respondeu - A piedade me clareia o rosto, por causa da angústia das gentes desamparadas que aqui sofrem. Andemos, pois temos ainda um longo caminho pela frente.
 
 E assim ele me guiou para o primeiro círculo que rodeia o poço abissal. Naquele lugar não ouvi sons de lamentação, somente suspiros. Só havia mágoa. Como não lhe perguntei nada, o poeta resolveu me explicar que espíritos eram aqueles que eu estava vendo.
 

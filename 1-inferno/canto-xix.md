@@ -1,7 +1,7 @@
 # Canto XIX
-Vala dos simoníacos
+## Os simoníacos
 
-Espírito do papa Nicolau III
+### O papa Nicolau III
 
 Ó Simão mago, e todos aqueles que te seguiram, profanando e vendendo as coisas de Deus pelo preço de ouro e prata! Em vossa homenagem devo soar a trombeta, pois é aqui, nesta terceira vala, onde estais!
 
