@@ -4,7 +4,7 @@
 
 # A Divina Comédia
 
-### Dante Alighieri · edição em português brasileiro
+### Dante Alighieri · Edição em Português Brasileiro
 
 Uma leitura em prosa contemporânea da jornada de Dante pelo Inferno, pelo Purgatório e pelo Paraíso. A linguagem busca ser clara e fluida, preservando os episódios, as imagens e o sentido da obra.
 
