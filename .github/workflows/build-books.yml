@@ -43,12 +43,6 @@ jobs:
           : > "$merged"
           for book in 1-inferno 2-purgatorio 3-paraiso; do
             if [[ -d "$book" ]]; then
-              case "$book" in
-                1-inferno) title='Livro I — Inferno' ;;
-                2-purgatorio) title='Livro II — Purgatório' ;;
-                3-paraiso) title='Livro III — Paraíso' ;;
-              esac
-              printf '# %s\n' "$title" >> "$merged"
               while IFS= read -r -d '' file; do
                 printf '\n\\newpage\n\n' >> "$merged"
                 cat "$file" >> "$merged"
@@ -72,17 +66,12 @@ jobs:
           \\end{titlepage}
           EOF
 
-          cat > "$RUNNER_TEMP/book-assets/cover.md" <<'EOF'
-          ![Capa: Flégias, o barqueiro do Estige](capa-barqueiro.jpg){width=78%}
-          \newpage
-          EOF
-          cat "$RUNNER_TEMP/book-assets/cover.md" "$merged" > "$RUNNER_TEMP/a-divina-comedia-with-cover.md"
-
-          pandoc "$RUNNER_TEMP/a-divina-comedia-with-cover.md" \
+          pandoc "$merged" \
             --from=gfm \
             --standalone \
             --toc \
             --toc-depth=2 \
+            --number-sections \
             --metadata title="A Divina Comédia" \
             --metadata author="Dante Alighieri" \
             --metadata subtitle="Inferno · Purgatório · Paraíso" \
