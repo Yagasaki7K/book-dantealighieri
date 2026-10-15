@@ -17,10 +17,10 @@ concurrency:
 
 jobs:
     build-and-release:
-        runs-on: ubuntu-latest
+        runs-on: ubuntu-24.04
         steps:
             - name: Baixar o repositório
-              uses: actions/checkout@v4
+              uses: actions/checkout@v7
 
             - name: Instalar ferramentas de publicação
               run: |
@@ -71,7 +71,7 @@ jobs:
                   EOF
 
                   pandoc "$merged" \
-                    --from=gfm \
+                    --from=markdown+raw_tex \
                     --standalone \
                     --toc \
                     --toc-depth=2 \
@@ -119,3 +119,5 @@ jobs:
                   fail_on_unmatched_files: true
                   make_latest: true
                   preserve_order: true
+
+
