@@ -1,4 +1,5 @@
 # Conto XXXIV
+
 ## Lúcifer, Judas, Bruto e Cássio
 
 ### Judas e o centro da Terra
@@ -27,8 +28,12 @@ E saímos por uma brecha na rocha. Virgílio, visivelmente exausto por ter me ca
 
 - Tu pensas que ainda estamos do outro lado. - disse-me o guia - Nós passamos pelo centro da terra, que puxa todo peso. Estamos agora embaixo do céu oposto, no hemisfério de água. Sob teus pés está uma pequena esfera, cujo lado oposto é ocupada pela Judeca. Se do outro lado anoitece, aqui o dia nasce. Este buraco por onde passamos foi formado quando Dite caiu do céu, e ele até hoje aí permanece. Depois da queda, por medo dele, a terra que formava os continentes deste lado fugiu para o nosso céu deixando encoberto pelo mar todo este hemisfério. A terra que estava aqui amontoou-se na superfície onde formou uma montanha, deixando este caminho vazio. Aí embaixo há um lugar, tão distante de Belzebú quanto o limite de sua tumba, conhecido pelo som (e não pela vista) de um pequeno riacho que para cá descende, pelo sulco que por ele foi aberto.
 
-Passamos então o resto do dia seguindo por aquele caminho escondido debaixo do chão, sem descanso algum. Depois da longa caminhada subimos, ele primeiro e eu atrás, passando por uma pequena abertura na pedra, para enfim, rever as estrelas. 
+Passamos então o resto do dia seguindo por aquele caminho escondido debaixo do chão, sem descanso algum. Depois da longa caminhada subimos, ele primeiro e eu atrás, passando por uma pequena abertura na pedra, para enfim, rever as estrelas.
 
 ![A Terra segundo a geografia de Dante. No hemisfério superior está Jerusalém e o mundo conhecido (século XIV). No hemisfério inferior há um grande oceano com uma única ilha no seu centro onde desponta uma montanha tão alta que alcança os céus. Ilustração de Helder da Rocha.](https://www.stelle.com.br/imagens/Terra.jpg)
 
 _A Terra segundo a geografia de Dante. No hemisfério superior está Jerusalém e o mundo conhecido (século XIV). No hemisfério inferior há um grande oceano com uma única ilha no seu centro onde desponta uma montanha tão alta que alcança os céus. Ilustração de Helder da Rocha._
+
+---
+
+Este é o fim da viagem pelo Inferno. A odisséia da Divina Comédia continua... no Purgatório.

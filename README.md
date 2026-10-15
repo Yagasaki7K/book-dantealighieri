@@ -8,11 +8,11 @@
 
 Uma leitura em prosa contemporânea da jornada de Dante pelo Inferno, pelo Purgatório e pelo Paraíso. A linguagem busca ser clara e fluida, preservando os episódios, as imagens e o sentido da obra.
 
-> **Andamento:** o livro do Inferno está organizado abaixo. Purgatório e Paraíso serão incluídos quando seus capítulos estiverem prontos.
+> **Andamento:** os livros Inferno e Purgatório estão disponíveis abaixo. O Paraíso será acrescentado quando estiver pronto.
 
 ## Baixar o livro completo
 
-Os arquivos abaixo acompanham a **release mais recente**. A edição atual contém o primeiro conto disponível; novos capítulos nas pastas dos livros atualizam automaticamente os downloads.
+Os arquivos abaixo acompanham a **release mais recente**. A edição atual reúne os livros disponíveis; novos capítulos nas pastas dos livros atualizam automaticamente os downloads.
 
 | Formato | Download                                                                                                                        |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,47 +28,80 @@ Os arquivos abaixo acompanham a **release mais recente**. A edição atual cont�
 
 ### Livro I — Inferno
 
-| Conto  | Título                                      |             Leitura              |
+| Canto  | Título                                      |             Leitura              |
 | :----: | ------------------------------------------- | :------------------------------: |
-|   I    | A selva escura, as feras e Virgílio         |   [Ler](1-inferno/conto-i.md)    |
-|   II   | A razão da viagem e Beatriz                 |   [Ler](1-inferno/conto-ii.md)   |
-|  III   | A porta do Inferno, o vestíbulo e Caronte   |  [Ler](1-inferno/conto-iii.md)   |
-|   IV   | O Limbo e o castelo dos sábios              |   [Ler](1-inferno/conto-iv.md)   |
-|   V    | Minós, Paolo e Francesca                    |   [Ler](1-inferno/conto-v.md)    |
-|   VI   | Cérbero e Ciacco                            |   [Ler](1-inferno/conto-vi.md)   |
-|  VII   | Pluto, a avareza e o rio Estige             |  [Ler](1-inferno/conto-vii.md)   |
-|  VIII  | Flégias, os demônios e a cidade de Dite     |  [Ler](1-inferno/conto-viii.md)  |
-|   IX   | As Erínias, Medusa e a entrada em Dite      |   [Ler](1-inferno/conto-ix.md)   |
-|   X    | Farinata e Cavalcante                       |   [Ler](1-inferno/conto-x.md)    |
-|   XI   | O túmulo de Anastácio e a justiça infernal  |   [Ler](1-inferno/conto-xi.md)   |
-|  XII   | O Minotauro, os centauros e o rio de sangue |  [Ler](1-inferno/conto-xii.md)   |
-|  XIII  | As Harpias e a selva dos suicidas           |  [Ler](1-inferno/conto-xiii.md)  |
-|  XIV   | O deserto em brasa e o rio Flegetonte       |  [Ler](1-inferno/conto-xiv.md)   |
-|   XV   | Brunetto Latini                             |   [Ler](1-inferno/conto-xv.md)   |
-|  XVI   | Os políticos florentinos                    |  [Ler](1-inferno/conto-xvi.md)   |
-|  XVII  | Gerião e os usurários                       |  [Ler](1-inferno/conto-xvii.md)  |
-| XVIII  | Malebolge: sedutores e aduladores           | [Ler](1-inferno/conto-xviii.md)  |
-|  XIX   | Os simoníacos e o papa Nicolau III          |  [Ler](1-inferno/conto-xix.md)   |
-|   XX   | Os adivinhos                                |   [Ler](1-inferno/conto-xx.md)   |
-|  XXI   | Os corruptos e os Malebranche               |  [Ler](1-inferno/conto-xxi.md)   |
-|  XXII  | A escolta dos dez demônios                  |  [Ler](1-inferno/conto-xxii.md)  |
-| XXIII  | Os hipócritas e os frades gaudentes         | [Ler](1-inferno/conto-xxiii.md)  |
-|  XXIV  | Os ladrões e Vanni Fucci                    |  [Ler](1-inferno/conto-xxiv.md)  |
-|  XXV   | As transformações em serpentes              |  [Ler](1-inferno/conto-xxv.md)   |
-|  XXVI  | Os maus conselheiros e Ulisses              |  [Ler](1-inferno/conto-xxvi.md)  |
-| XXVII  | Guido de Montefeltro                        | [Ler](1-inferno/conto-xxvii.md)  |
-| XXVIII | Os semeadores de discórdia                  | [Ler](1-inferno/conto-xxviii.md) |
-|  XXIX  | Os falsários e os alquimistas               |  [Ler](1-inferno/conto-xxix.md)  |
-|  XXX   | Os falsificadores, impostores e perjuros    |  [Ler](1-inferno/conto-xxx.md)   |
-|  XXXI  | Os gigantes, Nemrod, Efialte e Anteu        |  [Ler](1-inferno/conto-xxxi.md)  |
-| XXXII  | O lago Cócito, Caína, Antenora e Bocca      | [Ler](1-inferno/conto-xxxii.md)  |
-| XXXIII | O conde Ugolino e frei Alberigo             | [Ler](1-inferno/conto-xxxiii.md) |
-| XXXIV  | Lúcifer, Judas, Bruto, Cássio e a saída     | [Ler](1-inferno/conto-xxxiv.md)  |
+|   I    | A selva escura, as feras e Virgílio         |   [Ler](1-inferno/canto-i.md)    |
+|   II   | A razão da viagem e Beatriz                 |   [Ler](1-inferno/canto-ii.md)   |
+|  III   | A porta do Inferno, o vestíbulo e Caronte   |  [Ler](1-inferno/canto-iii.md)   |
+|   IV   | O Limbo e o castelo dos sábios              |   [Ler](1-inferno/canto-iv.md)   |
+|   V    | Minós, Paolo e Francesca                    |   [Ler](1-inferno/canto-v.md)    |
+|   VI   | Cérbero e Ciacco                            |   [Ler](1-inferno/canto-vi.md)   |
+|  VII   | Pluto, a avareza e o rio Estige             |  [Ler](1-inferno/canto-vii.md)   |
+|  VIII  | Flégias, os demônios e a cidade de Dite     |  [Ler](1-inferno/canto-viii.md)  |
+|   IX   | As Erínias, Medusa e a entrada em Dite      |   [Ler](1-inferno/canto-ix.md)   |
+|   X    | Farinata e Cavalcante                       |   [Ler](1-inferno/canto-x.md)    |
+|   XI   | O túmulo de Anastácio e a justiça infernal  |   [Ler](1-inferno/canto-xi.md)   |
+|  XII   | O Minotauro, os centauros e o rio de sangue |  [Ler](1-inferno/canto-xii.md)   |
+|  XIII  | As Harpias e a selva dos suicidas           |  [Ler](1-inferno/canto-xiii.md)  |
+|  XIV   | O deserto em brasa e o rio Flegetonte       |  [Ler](1-inferno/canto-xiv.md)   |
+|   XV   | Brunetto Latini                             |   [Ler](1-inferno/canto-xv.md)   |
+|  XVI   | Os políticos florentinos                    |  [Ler](1-inferno/canto-xvi.md)   |
+|  XVII  | Gerião e os usurários                       |  [Ler](1-inferno/canto-xvii.md)  |
+| XVIII  | Malebolge: sedutores e aduladores           | [Ler](1-inferno/canto-xviii.md)  |
+|  XIX   | Os simoníacos e o papa Nicolau III          |  [Ler](1-inferno/canto-xix.md)   |
+|   XX   | Os adivinhos                                |   [Ler](1-inferno/canto-xx.md)   |
+|  XXI   | Os corruptos e os Malebranche               |  [Ler](1-inferno/canto-xxi.md)   |
+|  XXII  | A escolta dos dez demônios                  |  [Ler](1-inferno/canto-xxii.md)  |
+| XXIII  | Os hipócritas e os frades gaudentes         | [Ler](1-inferno/canto-xxiii.md)  |
+|  XXIV  | Os ladrões e Vanni Fucci                    |  [Ler](1-inferno/canto-xxiv.md)  |
+|  XXV   | As transformações em serpentes              |  [Ler](1-inferno/canto-xxv.md)   |
+|  XXVI  | Os maus conselheiros e Ulisses              |  [Ler](1-inferno/canto-xxvi.md)  |
+| XXVII  | Guido de Montefeltro                        | [Ler](1-inferno/canto-xxvii.md)  |
+| XXVIII | Os semeadores de discórdia                  | [Ler](1-inferno/canto-xxviii.md) |
+|  XXIX  | Os falsários e os alquimistas               |  [Ler](1-inferno/canto-xxix.md)  |
+|  XXX   | Os falsificadores, impostores e perjuros    |  [Ler](1-inferno/canto-xxx.md)   |
+|  XXXI  | Os gigantes, Nemrod, Efialte e Anteu        |  [Ler](1-inferno/canto-xxxi.md)  |
+| XXXII  | O lago Cócito, Caína, Antenora e Bocca      | [Ler](1-inferno/canto-xxxii.md)  |
+| XXXIII | O conde Ugolino e frei Alberigo             | [Ler](1-inferno/canto-xxxiii.md) |
+| XXXIV  | Lúcifer, Judas, Bruto, Cássio e a saída     | [Ler](1-inferno/canto-xxxiv.md)  |
 
 ### Livro II — Purgatório
 
-_Em preparação._
-
+| Canto | Título | Leitura |
+|:---:|---|:---:|
+| I | A saída do Inferno, as quatro estrelas e Catão de Útica | [Ler](2-purgatorio/conto-i.md) |
+| II | O barqueiro do Purgatório e Casella | [Ler](2-purgatorio/conto-ii.md) |
+| III | O ante-Purgatório e as almas excomungadas | [Ler](2-purgatorio/conto-iii.md) |
+| IV | A subida ao segundo terraço e Belacqua | [Ler](2-purgatorio/conto-iv.md) |
+| V | Os arrependidos na hora da morte: Jacopo, Buonconte e Pia | [Ler](2-purgatorio/conto-v.md) |
+| VI | Sordello e a decadência da Itália | [Ler](2-purgatorio/conto-vi.md) |
+| VII | Os arrependidos tardios e o vale dos governantes | [Ler](2-purgatorio/conto-vii.md) |
+| VIII | O vale dos governantes, a serpente e os anjos | [Ler](2-purgatorio/conto-viii.md) |
+| IX | O primeiro sonho, Santa Luzia e a porta de São Pedro | [Ler](2-purgatorio/conto-ix.md) |
+| X | A primeira cornija: os orgulhosos | [Ler](2-purgatorio/conto-x.md) |
+| XI | Omberto, Oderisi e Salvani | [Ler](2-purgatorio/conto-xi.md) |
+| XII | Exemplos de orgulho esculpidos no chão | [Ler](2-purgatorio/conto-xii.md) |
+| XIII | A segunda cornija: os invejosos e Sapía de Siena | [Ler](2-purgatorio/conto-xiii.md) |
+| XIV | Guido del Duca, Rinieri de Calboli e o rio Arno | [Ler](2-purgatorio/conto-xiv.md) |
+| XV | O anjo da Misericórdia e as visões da paciência | [Ler](2-purgatorio/conto-xv.md) |
+| XVI | A cornija dos iracundos e Marco Lombardo | [Ler](2-purgatorio/conto-xvi.md) |
+| XVII | As visões da ira e a justiça do Purgatório | [Ler](2-purgatorio/conto-xvii.md) |
+| XVIII | A quarta cornija e os preguiçosos | [Ler](2-purgatorio/conto-xviii.md) |
+| XIX | O segundo sonho, a sereia e o papa Adriano V | [Ler](2-purgatorio/conto-xix.md) |
+| XX | Hugo Capeto e o tremor do monte | [Ler](2-purgatorio/conto-xx.md) |
+| XXI | Estácio e a sede de conhecimento | [Ler](2-purgatorio/conto-xxi.md) |
+| XXII | Estácio, Virgílio e a subida à sétima cornija | [Ler](2-purgatorio/conto-xxii.md) |
+| XXIII | Forese Donati e os gulosos | [Ler](2-purgatorio/conto-xxiii.md) |
+| XXIV | Bonagiunta de Lucca e o anjo da abstinência | [Ler](2-purgatorio/conto-xxiv.md) |
+| XXV | O discurso de Estácio e os exemplos de castidade | [Ler](2-purgatorio/conto-xxv.md) |
+| XXVI | Guido Guinizzelli, Arnaut Daniel e os luxuriosos | [Ler](2-purgatorio/conto-xxvi.md) |
+| XXVII | A passagem pelo fogo e a despedida de Virgílio | [Ler](2-purgatorio/conto-xxvii.md) |
+| XXVIII | O Paraíso Terrestre, Matelda e o rio Letes | [Ler](2-purgatorio/conto-xxviii.md) |
+| XXIX | A procissão e a carruagem triunfal | [Ler](2-purgatorio/conto-xxix.md) |
+| XXX | O reencontro com Beatriz | [Ler](2-purgatorio/conto-xxx.md) |
+| XXXI | O arrependimento de Dante e o banho no Letes | [Ler](2-purgatorio/conto-xxxi.md) |
+| XXXII | A árvore do conhecimento e as sete revelações | [Ler](2-purgatorio/conto-xxxii.md) |
+| XXXIII | A fonte do Letes, o Eunoé e a purificação de Dante | [Ler](2-purgatorio/conto-xxxiii.md) |
 ### Livro III — Paraíso
 
 _Em preparação._
