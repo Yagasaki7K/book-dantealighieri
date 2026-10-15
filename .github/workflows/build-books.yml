@@ -1,117 +1,121 @@
 name: Build and publish A Divina Comédia
 
 on:
-  push:
-    paths:
-      - '1-inferno/**/*.md'
-      - '2-purgatorio/**/*.md'
-      - '3-paraiso/**/*.md'
-  workflow_dispatch:
+    push:
+        paths:
+            - "1-inferno/**/*.md"
+            - "2-purgatorio/**/*.md"
+            - "3-paraiso/**/*.md"
+    workflow_dispatch:
 
 permissions:
-  contents: write
+    contents: write
 
 concurrency:
-  group: book-release-latest
-  cancel-in-progress: false
+    group: book-release-latest
+    cancel-in-progress: false
 
 jobs:
-  build-and-release:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Baixar o repositório
-        uses: actions/checkout@v4
+    build-and-release:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Baixar o repositório
+              uses: actions/checkout@v4
 
-      - name: Instalar ferramentas de publicação
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended calibre
+            - name: Instalar ferramentas de publicação
+              run: |
+                  sudo apt-get update
+                  sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended calibre
 
-      - name: Preparar a imagem de capa do barqueiro
-        run: |
-          mkdir -p "$RUNNER_TEMP/book-assets"
-          curl --fail --location --retry 3 \
-            https://www.stelle.com.br/imagens/C5.jpg \
-            --output "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg"
+            - name: Preparar a imagem de capa do barqueiro
+              run: |
+                  mkdir -p "$RUNNER_TEMP/book-assets"
+                  curl --fail --location --retry 3 \
+                    https://www.stelle.com.br/imagens/C5.jpg \
+                    --output "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg"
 
-      - name: Juntar capítulos e criar PDF, EPUB e MOBI em ~/download
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p "$HOME/download"
-          merged="$RUNNER_TEMP/a-divina-comedia.md"
-          : > "$merged"
-          for book in 1-inferno 2-purgatorio 3-paraiso; do
-            if [[ -d "$book" ]]; then
-              while IFS= read -r -d '' file; do
-                printf '\n\\newpage\n\n' >> "$merged"
-                cat "$file" >> "$merged"
-                printf '\n\n' >> "$merged"
-              done < <(find "$book" -maxdepth 1 -type f -name '*.md' -print0 | sort -zV)
-            fi
-          done
+            - name: Juntar capítulos e criar PDF, EPUB e MOBI em ~/download
+              shell: bash
+              run: |
+                  set -euo pipefail
+                  mkdir -p "$HOME/download"
+                  merged="$RUNNER_TEMP/a-divina-comedia.md"
+                  : > "$merged"
+                  chapters=(i ii iii iv v vi vii viii ix x xi xii xiii xiv xv xvi xvii xviii xix xx xxi xxii xxiii xxiv xxv xxvi xxvii xxviii xxix xxx xxxi xxxii xxxiii xxxiv)
+                  for book in 1-inferno 2-purgatorio 3-paraiso; do
+                    if [[ -d "$book" ]]; then
+                      for chapter in "${chapters[@]}"; do
+                        file="$book/canto-$chapter.md"
+                        if [[ -f "$file" ]]; then
+                          printf '\n\\newpage\n\n' >> "$merged"
+                          cat "$file" >> "$merged"
+                          printf '\n\n' >> "$merged"
+                        fi
+                      done
+                    fi
+                  done
 
-          cat > "$RUNNER_TEMP/book-assets/cover-page.tex" <<EOF
-          \\begin{titlepage}
-          \\centering
-          \\vspace*{\\fill}
-          {\\Huge\\bfseries A Divina Comédia\\par}
-          \\vspace{0.5cm}
-          {\\Large Dante Alighieri\\par}
-          \\vspace{1.5cm}
-          \\includegraphics[width=0.78\\textwidth,height=0.62\\textheight,keepaspectratio]{\\detokenize{$RUNNER_TEMP/book-assets/capa-barqueiro.jpg}}
-          \\par\\vspace{0.35cm}
-          {\\small Flégias, o barqueiro do Estige\\par}
-          \\vspace*{\\fill}
-          \\end{titlepage}
-          EOF
+                  cat > "$RUNNER_TEMP/book-assets/cover-page.tex" <<EOF
+                  \\begin{titlepage}
+                  \\centering
+                  \\vspace*{\\fill}
+                  {\\Huge\\bfseries A Divina Comédia\\par}
+                  \\vspace{0.5cm}
+                  {\\Large Dante Alighieri\\par}
+                  \\vspace{1.5cm}
+                  \\includegraphics[width=0.78\\textwidth,height=0.62\\textheight,keepaspectratio]{\\detokenize{$RUNNER_TEMP/book-assets/capa-barqueiro.jpg}}
+                  \\par\\vspace{0.35cm}
+                  {\\small Flégias, o barqueiro do Estige\\par}
+                  \\vspace*{\\fill}
+                  \\end{titlepage}
+                  EOF
 
-          pandoc "$merged" \
-            --from=gfm \
-            --standalone \
-            --toc \
-            --toc-depth=2 \
-            --number-sections \
-            --metadata title="A Divina Comédia" \
-            --metadata author="Dante Alighieri" \
-            --metadata subtitle="Inferno · Purgatório · Paraíso" \
-            --resource-path="$RUNNER_TEMP/book-assets" \
-            --include-before-body="$RUNNER_TEMP/book-assets/cover-page.tex" \
-            --pdf-engine=xelatex \
-            -V mainfont="DejaVu Serif" \
-            -V geometry:margin=2.2cm \
-            -o "$HOME/download/a-divina-comedia.pdf"
+                  pandoc "$merged" \
+                    --from=gfm \
+                    --standalone \
+                    --toc \
+                    --toc-depth=2 \
+                    --number-sections \
+                    --metadata title="A Divina Comédia" \
+                    --metadata author="Dante Alighieri" \
+                    --metadata subtitle="Inferno · Purgatório · Paraíso" \
+                    --resource-path="$RUNNER_TEMP/book-assets" \
+                    --include-before-body="$RUNNER_TEMP/book-assets/cover-page.tex" \
+                    --pdf-engine=xelatex \
+                    -V mainfont="DejaVu Serif" \
+                    -V geometry:margin=2.2cm \
+                    -o "$HOME/download/a-divina-comedia.pdf"
 
-          ebook-convert "$HOME/download/a-divina-comedia.pdf" \
-            "$HOME/download/a-divina-comedia.epub" \
-            --title "A Divina Comédia" \
-            --authors "Dante Alighieri" \
-            --cover "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg" \
-            --chapter "//h:h1" \
-            --level1-toc "//h:h1"
+                  ebook-convert "$HOME/download/a-divina-comedia.pdf" \
+                    "$HOME/download/a-divina-comedia.epub" \
+                    --title "A Divina Comédia" \
+                    --authors "Dante Alighieri" \
+                    --cover "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg" \
+                    --chapter "//h:h1" \
+                    --level1-toc "//h:h1"
 
-          ebook-convert "$HOME/download/a-divina-comedia.epub" \
-            "$HOME/download/a-divina-comedia.mobi" \
-            --title "A Divina Comédia" \
-            --authors "Dante Alighieri" \
-            --cover "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg" \
-            --chapter "//h:h1" \
-            --level1-toc "//h:h1"
+                  ebook-convert "$HOME/download/a-divina-comedia.epub" \
+                    "$HOME/download/a-divina-comedia.mobi" \
+                    --title "A Divina Comédia" \
+                    --authors "Dante Alighieri" \
+                    --cover "$RUNNER_TEMP/book-assets/capa-barqueiro.jpg" \
+                    --chapter "//h:h1" \
+                    --level1-toc "//h:h1"
 
-      - name: Criar ou atualizar a release mais recente
-        uses: softprops/action-gh-release@v3
-        with:
-          tag_name: latest
-          name: A Divina Comédia — versão mais recente
-          target_commitish: ${{ github.sha }}
-          body: |
-            Edição mais recente gerada automaticamente a partir dos capítulos disponíveis nas pastas dos livros.
+            - name: Criar ou atualizar a release mais recente
+              uses: softprops/action-gh-release@v3
+              with:
+                  tag_name: latest
+                  name: A Divina Comédia
+                  target_commitish: ${{ github.sha }}
+                  body: |
+                      Edição mais recente gerada automaticamente a partir dos capítulos disponíveis nas pastas dos livros.
 
-            Esta release é atualizada quando um arquivo Markdown de capítulo é alterado.
-          files: |
-            /home/runner/download/a-divina-comedia.pdf
-            /home/runner/download/a-divina-comedia.epub
-            /home/runner/download/a-divina-comedia.mobi
-          fail_on_unmatched_files: true
-          make_latest: true
-          preserve_order: true
+                      Esta release é atualizada quando um arquivo Markdown de capítulo é alterado.
+                  files: |
+                      /home/runner/download/a-divina-comedia.pdf
+                      /home/runner/download/a-divina-comedia.epub
+                      /home/runner/download/a-divina-comedia.mobi
+                  fail_on_unmatched_files: true
+                  make_latest: true
+                  preserve_order: true
