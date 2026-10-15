@@ -39,4 +39,6 @@ Prosseguimos, então, os seis, até finalmente chegarmos ao local de onde emanav
 
 ![Dante, Homero, Lucano, Virgílio e outras grandes figuras da Antiguidade. Ilustração de Gustave Doré (séc. XIX)](https://www.stelle.com.br/imagens/Limbo.jpg)
 
+_Dante, Homero, Lucano, Virgílio e outras grandes figuras da Antiguidade. Ilustração de Gustave Doré (séc. XIX)_
+
 De todos, no final, restamos só eu e Virgílio, pois nossa jornada nos impelia adiante. Chegamos, então, a um lugar onde nada mais reluzia.
