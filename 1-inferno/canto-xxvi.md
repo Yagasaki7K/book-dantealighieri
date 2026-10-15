@@ -1,4 +1,4 @@
-# Canto XXVI
+# Conto XXVI
 ## Os maus conselheiros e Ulisses
 
 Alegra-te Florença pois és tão grande que até pelo inferno o teu nome se expande! Cinco eminentes florentinos encontrei naquele fosso, o que me fez sentir vergonha de ti.

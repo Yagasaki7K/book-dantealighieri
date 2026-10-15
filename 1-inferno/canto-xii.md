@@ -1,4 +1,4 @@
-# Canto XII
+# Conto XII
 ## O Minotauro e os centauros
 
 ### O círculo da violência e o rio de sangue

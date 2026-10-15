@@ -1,4 +1,4 @@
-# Canto IX
+# Conto IX
 
 ## As Erínias, Medusa e a entrada na cidade de Dite
 

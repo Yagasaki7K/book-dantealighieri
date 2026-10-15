@@ -1,4 +1,4 @@
-# Canto XXXI
+# Conto XXXI
 ## Os gigantes, Nemrod, Efialte e Anteu
 
 Dando as costas àquele vale miserável, escalamos o rochedo e chegamos à últimà beira, que atravessamos em silêncio. A escuridão era imensa e meus olhos podiam ver muito pouco, quando ouvi uma trombeta soar tão forte que parecia o som de um trovão. O estrondo me fez voltar o olhar para o horizonte onde percebi o que pareciam ser torres de uma cidade.

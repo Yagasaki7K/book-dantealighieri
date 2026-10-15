@@ -1,4 +1,4 @@
-# Canto XXXIV
+# Conto XXXIV
 ## Lúcifer, Judas, Bruto e Cássio
 
 ### Judas e o centro da Terra

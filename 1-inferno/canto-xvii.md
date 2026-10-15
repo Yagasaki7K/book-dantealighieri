@@ -1,4 +1,4 @@
-# Canto XVII
+# Conto XVII
 ## Gerião e os usurários
 
 - Eis a fera com sua cauda aguda, que atravessa os montes e rompe os muros e armas! Eis aquela que em todo o mundo transpira e fede! - começou a me falar o mestre, enquanto acenava para a fera sinalizando que ela viesse à beira da pedra onde estávamos.

@@ -1,4 +1,4 @@
-# Canto II
+# Conto II
 ## A razão da viagem e Beatriz
 
 Já anoitecia quando iniciamos a jornada. Ó Musas, ó grande gênio, me ajudem para que eu consiga relatar aqui sem erro esta viagem que está escrita para sempre em minha mente! E então comecei:

@@ -1,4 +1,4 @@
-# Canto XXXII
+# Conto XXXII
 ## O lago Cócito, Caína, Antenora e Bocca
 
 ![Mapa do nono círculo (Cócito). Ilustração de Helder da Rocha](https://www.stelle.com.br/imagens/Cocito.jpg)

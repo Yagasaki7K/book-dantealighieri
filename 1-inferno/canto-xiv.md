@@ -1,4 +1,4 @@
-# Canto XIV
+# Conto XIV
 ## O deserto em brasa e a chuva de fogo
 
 ### O riacho Flegetonte

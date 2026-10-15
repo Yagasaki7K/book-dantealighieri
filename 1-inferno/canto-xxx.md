@@ -1,4 +1,4 @@
-# Canto XXX
+# Conto XXX
 ## Os falsificadores, impostores e perjuros
 
 ### Mestre Adamo

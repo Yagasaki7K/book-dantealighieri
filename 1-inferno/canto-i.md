@@ -1,4 +1,4 @@
-# Canto I
+# Conto I
 ## A selva escura, as feras e o espírito de Virgílio
 
 No meio do caminho da vida, encontrei-me perdido numa selva escura, longe da estrada certa. Ah, como é difícil descrevê-la! Era tão selvagem, áspera e ameaçadora que só de lembrar volto a sentir medo. Talvez nem a própria morte fosse tão terrível. Mas, para contar o bem que dali nasceu, preciso primeiro falar de tudo o que encontrei de ruim.

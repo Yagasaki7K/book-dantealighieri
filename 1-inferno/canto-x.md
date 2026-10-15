@@ -1,4 +1,4 @@
-# Canto X
+# Conto X
 ## Farinata e Cavalcante
 
 Passávamos por um caminho secreto, entre a muralha e as sepulturas, quando eu perguntei ao mestre:

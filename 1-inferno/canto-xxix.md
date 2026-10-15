@@ -1,4 +1,4 @@
-# Canto XXIX
+# Conto XXIX
 ## Os falsários e os alquimistas
 
 Tanta gente ferida e sofrendo deixaram meus olhos inundados de lágrimas. Virgílio notou e me perguntou:

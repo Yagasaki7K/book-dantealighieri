@@ -1,4 +1,4 @@
-# Canto XV
+# Conto XV
 ## Brunetto Latini
 
 Nós caminhávamos por uma das margens de pedra. Uma névoa pairava sobre o córrego mantendo o fogo longe dos diques que o separam do areão. A selva já ficara bem para trás (tão distante que, se eu olhasse para trás, tenho certeza que não mais a veria) quando surgiu um grupo de almas beirando o dique e nos fitando. Uma delas me reconheceu e se agarrou ao meu manto, gritando:
