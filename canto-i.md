@@ -7,6 +7,8 @@ Eu não sei como fui parar naquele lugar sombrio. Sonolento como eu estava, devo
 
 ![Dante perdido na selva escura. Ilustração de Gustave Doré (séc XIX).](https://www.stelle.com.br/imagens/Floresta.jpg)
 
+_Dante perdido na selva escura. Ilustração de Gustave Doré (séc XIX)._
+
 Eu havia dado poucos passos, quando, de repente, saltou à minha frente um ágil e alegre leopardo. Astuto, de pêlos manchados, de todas as formas ele impedia que eu seguisse adiante. Não adiantava desviar ou buscar um outro caminho pois no final, ele sempre estava lá, bloqueando a minha passagem. Várias vezes tentei vencê-lo. Várias vezes falhei.
 
 O dia já raiava e o sol nascia com aquelas mesmas estrelas que acompanharam o mundo no seu primeiro dia. A luz e a claridade daquele dia especial renovaram minhas esperanças, e me fizeram acreditar que iria conseguir vencer aquela fera malhada.
