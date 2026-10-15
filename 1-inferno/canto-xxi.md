@@ -1,4 +1,4 @@
-# Conto XXI
+# Canto XXI
 ## Os corruptos e os Malebranche
 
 De cima de outra ponte paramos para ver a próxima fissura de Malebolge, que era incrivelmente escura. Lá embaixo um grosso breu fervia. Eu olhava mas nada via a não ser as bolhas de piche que a fervura levantava. Enquanto meus olhos procuravam alguma coisa naquela escuridão, meu guia gritou:

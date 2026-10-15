@@ -1,4 +1,4 @@
-# Conto VII
+# Canto VII
 
 ## Pluto, a avareza, a ira e o rio Estige
 

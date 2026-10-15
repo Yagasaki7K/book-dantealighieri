@@ -1,4 +1,4 @@
-# Conto IV
+# Canto IV
 ## O Limbo e o castelo dos sábios
 
 Acordei ao som de um trovão, já nas bordas abissais do fosso infernal, onde ecoam gritos infinitos. Tão escuro e nebuloso era que, por mais que eu tentasse forçar a vista ao fundo, não conseguia discernir coisa alguma.

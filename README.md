@@ -69,39 +69,39 @@ Os arquivos abaixo acompanham a **release mais recente**. A edição atual reún
 
 | Canto | Título | Leitura |
 |:---:|---|:---:|
-| I | A saída do Inferno, as quatro estrelas e Catão de Útica | [Ler](2-purgatorio/conto-i.md) |
-| II | O barqueiro do Purgatório e Casella | [Ler](2-purgatorio/conto-ii.md) |
-| III | O ante-Purgatório e as almas excomungadas | [Ler](2-purgatorio/conto-iii.md) |
-| IV | A subida ao segundo terraço e Belacqua | [Ler](2-purgatorio/conto-iv.md) |
-| V | Os arrependidos na hora da morte: Jacopo, Buonconte e Pia | [Ler](2-purgatorio/conto-v.md) |
-| VI | Sordello e a decadência da Itália | [Ler](2-purgatorio/conto-vi.md) |
-| VII | Os arrependidos tardios e o vale dos governantes | [Ler](2-purgatorio/conto-vii.md) |
-| VIII | O vale dos governantes, a serpente e os anjos | [Ler](2-purgatorio/conto-viii.md) |
-| IX | O primeiro sonho, Santa Luzia e a porta de São Pedro | [Ler](2-purgatorio/conto-ix.md) |
-| X | A primeira cornija: os orgulhosos | [Ler](2-purgatorio/conto-x.md) |
-| XI | Omberto, Oderisi e Salvani | [Ler](2-purgatorio/conto-xi.md) |
-| XII | Exemplos de orgulho esculpidos no chão | [Ler](2-purgatorio/conto-xii.md) |
-| XIII | A segunda cornija: os invejosos e Sapía de Siena | [Ler](2-purgatorio/conto-xiii.md) |
-| XIV | Guido del Duca, Rinieri de Calboli e o rio Arno | [Ler](2-purgatorio/conto-xiv.md) |
-| XV | O anjo da Misericórdia e as visões da paciência | [Ler](2-purgatorio/conto-xv.md) |
-| XVI | A cornija dos iracundos e Marco Lombardo | [Ler](2-purgatorio/conto-xvi.md) |
-| XVII | As visões da ira e a justiça do Purgatório | [Ler](2-purgatorio/conto-xvii.md) |
-| XVIII | A quarta cornija e os preguiçosos | [Ler](2-purgatorio/conto-xviii.md) |
-| XIX | O segundo sonho, a sereia e o papa Adriano V | [Ler](2-purgatorio/conto-xix.md) |
-| XX | Hugo Capeto e o tremor do monte | [Ler](2-purgatorio/conto-xx.md) |
-| XXI | Estácio e a sede de conhecimento | [Ler](2-purgatorio/conto-xxi.md) |
-| XXII | Estácio, Virgílio e a subida à sétima cornija | [Ler](2-purgatorio/conto-xxii.md) |
-| XXIII | Forese Donati e os gulosos | [Ler](2-purgatorio/conto-xxiii.md) |
-| XXIV | Bonagiunta de Lucca e o anjo da abstinência | [Ler](2-purgatorio/conto-xxiv.md) |
-| XXV | O discurso de Estácio e os exemplos de castidade | [Ler](2-purgatorio/conto-xxv.md) |
-| XXVI | Guido Guinizzelli, Arnaut Daniel e os luxuriosos | [Ler](2-purgatorio/conto-xxvi.md) |
-| XXVII | A passagem pelo fogo e a despedida de Virgílio | [Ler](2-purgatorio/conto-xxvii.md) |
-| XXVIII | O Paraíso Terrestre, Matelda e o rio Letes | [Ler](2-purgatorio/conto-xxviii.md) |
-| XXIX | A procissão e a carruagem triunfal | [Ler](2-purgatorio/conto-xxix.md) |
-| XXX | O reencontro com Beatriz | [Ler](2-purgatorio/conto-xxx.md) |
-| XXXI | O arrependimento de Dante e o banho no Letes | [Ler](2-purgatorio/conto-xxxi.md) |
-| XXXII | A árvore do conhecimento e as sete revelações | [Ler](2-purgatorio/conto-xxxii.md) |
-| XXXIII | A fonte do Letes, o Eunoé e a purificação de Dante | [Ler](2-purgatorio/conto-xxxiii.md) |
+| I | A saída do Inferno, as quatro estrelas e Catão de Útica | [Ler](2-purgatorio/canto-i.md) |
+| II | O barqueiro do Purgatório e Casella | [Ler](2-purgatorio/canto-ii.md) |
+| III | O ante-Purgatório e as almas excomungadas | [Ler](2-purgatorio/canto-iii.md) |
+| IV | A subida ao segundo terraço e Belacqua | [Ler](2-purgatorio/canto-iv.md) |
+| V | Os arrependidos na hora da morte: Jacopo, Buonconte e Pia | [Ler](2-purgatorio/canto-v.md) |
+| VI | Sordello e a decadência da Itália | [Ler](2-purgatorio/canto-vi.md) |
+| VII | Os arrependidos tardios e o vale dos governantes | [Ler](2-purgatorio/canto-vii.md) |
+| VIII | O vale dos governantes, a serpente e os anjos | [Ler](2-purgatorio/canto-viii.md) |
+| IX | O primeiro sonho, Santa Luzia e a porta de São Pedro | [Ler](2-purgatorio/canto-ix.md) |
+| X | A primeira cornija: os orgulhosos | [Ler](2-purgatorio/canto-x.md) |
+| XI | Omberto, Oderisi e Salvani | [Ler](2-purgatorio/canto-xi.md) |
+| XII | Exemplos de orgulho esculpidos no chão | [Ler](2-purgatorio/canto-xii.md) |
+| XIII | A segunda cornija: os invejosos e Sapía de Siena | [Ler](2-purgatorio/canto-xiii.md) |
+| XIV | Guido del Duca, Rinieri de Calboli e o rio Arno | [Ler](2-purgatorio/canto-xiv.md) |
+| XV | O anjo da Misericórdia e as visões da paciência | [Ler](2-purgatorio/canto-xv.md) |
+| XVI | A cornija dos iracundos e Marco Lombardo | [Ler](2-purgatorio/canto-xvi.md) |
+| XVII | As visões da ira e a justiça do Purgatório | [Ler](2-purgatorio/canto-xvii.md) |
+| XVIII | A quarta cornija e os preguiçosos | [Ler](2-purgatorio/canto-xviii.md) |
+| XIX | O segundo sonho, a sereia e o papa Adriano V | [Ler](2-purgatorio/canto-xix.md) |
+| XX | Hugo Capeto e o tremor do monte | [Ler](2-purgatorio/canto-xx.md) |
+| XXI | Estácio e a sede de conhecimento | [Ler](2-purgatorio/canto-xxi.md) |
+| XXII | Estácio, Virgílio e a subida à sétima cornija | [Ler](2-purgatorio/canto-xxii.md) |
+| XXIII | Forese Donati e os gulosos | [Ler](2-purgatorio/canto-xxiii.md) |
+| XXIV | Bonagiunta de Lucca e o anjo da abstinência | [Ler](2-purgatorio/canto-xxiv.md) |
+| XXV | O discurso de Estácio e os exemplos de castidade | [Ler](2-purgatorio/canto-xxv.md) |
+| XXVI | Guido Guinizzelli, Arnaut Daniel e os luxuriosos | [Ler](2-purgatorio/canto-xxvi.md) |
+| XXVII | A passagem pelo fogo e a despedida de Virgílio | [Ler](2-purgatorio/canto-xxvii.md) |
+| XXVIII | O Paraíso Terrestre, Matelda e o rio Letes | [Ler](2-purgatorio/canto-xxviii.md) |
+| XXIX | A procissão e a carruagem triunfal | [Ler](2-purgatorio/canto-xxix.md) |
+| XXX | O reencontro com Beatriz | [Ler](2-purgatorio/canto-xxx.md) |
+| XXXI | O arrependimento de Dante e o banho no Letes | [Ler](2-purgatorio/canto-xxxi.md) |
+| XXXII | A árvore do conhecimento e as sete revelações | [Ler](2-purgatorio/canto-xxxii.md) |
+| XXXIII | A fonte do Letes, o Eunoé e a purificação de Dante | [Ler](2-purgatorio/canto-xxxiii.md) |
 ### Livro III — Paraíso
 
 _Em preparação._

@@ -1,4 +1,4 @@
-# Conto III
+# Canto III
 
 ## A porta do Inferno, o vestíbulo e Caronte
 

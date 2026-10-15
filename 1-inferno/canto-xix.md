@@ -1,4 +1,4 @@
-# Conto XIX
+# Canto XIX
 ## Os simoníacos
 
 ### O papa Nicolau III

@@ -2,7 +2,7 @@
 
 ## O vale dos líderes (preocupados) - A serpente - Os anjos
 
-Era a hora em que o navegante sente a saudade invadir-lhe o coração, e o faz reviver o dia em que deu adeus aos amigos queridos. Era a hora em que o novo prergrino sente o amor perfurá-lo, ao ouvir o sino distante, que parece chorar pelo dia que morre. Naquela hora, eu não mais ouvia o que Sardello dizia, mas olhava para uma alma que, levantada, com as mãos erguidas, pedia nossa atenção. "Antes que o dia termine...", cantava, devotadamente e com tão doces notas que me fez perder a noção do meu próprio eu. Os outros acompanhavam cantando todo o hino em seguida, mantendo os olhares fixos nas esferas celestes.
+Era a hora em que o navegante sente a saudade invadir-lhe o coração, e o faz reviver o dia em que deu adeus aos amigos queridos. Era a hora em que o novo peregrino sente o amor perfurá-lo, ao ouvir o sino distante, que parece chorar pelo dia que morre. Naquela hora, eu não mais ouvia o que Sordello dizia, mas olhava para uma alma que, levantada, com as mãos erguidas, pedia nossa atenção. "Antes que o dia termine...", cantava, devotadamente e com tão doces notas que me fez perder a noção do meu próprio eu. Os outros acompanhavam cantando todo o hino em seguida, mantendo os olhares fixos nas esferas celestes.
 
 Aguça aqui, leitor, o olhar à verdade, que agora se cobre por um véu tão sutil que atravessá-lo não será difícil.
 

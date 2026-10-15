@@ -1,4 +1,4 @@
-# Conto XVIII
+# Canto XVIII
 ## Malebolge, o círculo da fraude
 
 ### As valas dos sedutores e dos aduladores

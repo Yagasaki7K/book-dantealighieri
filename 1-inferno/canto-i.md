@@ -1,4 +1,4 @@
-# Conto I
+# Canto I
 ## A selva escura, as feras e o espírito de Virgílio
 
 No meio do caminho da vida, encontrei-me perdido numa selva escura, longe da estrada certa. Ah, como é difícil descrevê-la! Era tão selvagem, áspera e ameaçadora que só de lembrar volto a sentir medo. Talvez nem a própria morte fosse tão terrível. Mas, para contar o bem que dali nasceu, preciso primeiro falar de tudo o que encontrei de ruim.
@@ -15,7 +15,7 @@ O dia já raiava e o sol nascia com aquelas mesmas estrelas que acompanharam o m
 
 Mas a minha esperança durou pouco e o medo retornou quando vi surgir, diante de mim, um leão. Ele parecia avançar na minha direção, com a cabeça erguida, tão faminto e raivoso que até o próprio ar parecia temê-lo. E depois veio uma loba, magra e cobiçosa, cuja visão tornou minha alma tão pesada, pelo medo que me possuiu, que não vi mais esperança alguma na escalada. A loba avançava, lentamente, e me fazia descer, me empurrando de volta para aquele lugar onde a luz do Sol não entra.
 
-Quando eu já me encontrava nà beira daquele vale escuro, meus olhos aos poucos perceberam um vulto que se aproximava, que apagado estivera, talvez por excessivo silêncio.
+Quando eu já me encontrava na beira daquele vale escuro, meus olhos aos poucos perceberam um vulto que se aproximava, que apagado estivera, talvez por excessivo silêncio.
 
 - Tenha piedade de mim - gritei ao vê-lo - quem quer que sejas, sombra ou homem vivo!
 

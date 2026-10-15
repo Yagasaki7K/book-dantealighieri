@@ -1,4 +1,4 @@
-# Conto XVI
+# Canto XVI
 
 ## Os políticos florentinos
 
@@ -32,4 +32,4 @@ Diante de tal cena eu pensei: "Algo deverá acontecer, pois algum evento o mestr
 
 - O que tua mente espera logo surgirá à tua visão.
 
-Mal ele havia terminado de falar, eu vi surgir da escuridão, nadando naquele ar denso e escuro, uma grande e estupenda figura que assombraria até os corações mais seguros. Ela já reduzia a sua velocidade e preparava-se para pousar nà beira do precipício, estirando suas garras e recolhendo seus pés. 
+Mal ele havia terminado de falar, eu vi surgir da escuridão, nadando naquele ar denso e escuro, uma grande e estupenda figura que assombraria até os corações mais seguros. Ela já reduzia a sua velocidade e preparava-se para pousar na beira do precipício, estirando suas garras e recolhendo seus pés. 

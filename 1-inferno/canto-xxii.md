@@ -1,4 +1,4 @@
-# Conto XXII
+# Canto XXII
 ## A escolta dos dez demônios
 
 Seguimos com os dez demônios. Durante a nossa jornada eu pude ter uma noção melhor de todo o vale e do breu fervente. Observei que, como os golfinhos que mostram suas costas acima da água, eventualmente um pecador mostrava as suas para aliviar por um instante seu sofrimento, e logo tornava a mergulhar. Outros ficavam à beira da fossa, mas submergiam assim que Barbariccia aparecia.

@@ -1,4 +1,4 @@
-# Conto XXIV
+# Canto XXIV
 ## Os ladrões e Vanni Fucci
 
 Virgílio, visivelmente irritado, nada falou até que chegamos diante das ruínas da ponte. Lá, imediatamente recuperou o seu semblante amável e otimista. Estudou por um instante as ruínas e abriu os braços para que eu me apoiasse nele para realizar a subida. E assim subimos, lentamente, ele me erguendo, e eu abrindo caminho.

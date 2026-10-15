@@ -14,7 +14,7 @@ _O sonho da águia. Ilustração de Gustave Doré (século XIX)._
 
 - Não temas - disse o meu senhor - que nós estamos no caminho certo. Chegamos enfim ao Purgatório. Esta vendo esta beirada que percorre todo o monte? Ali, no final, está o portão por onde deveremos entrar. Antes do amanhecer, enquanto dormias, veio até nós uma mulher que disse: "Eu sou Luzia. Deixe-me levar este que dorme, para ajudá-lo em sua via". Sordello e os outros ficaram. Ela te pegou nos braços e o trouxe até aqui, e eu segui logo atrás. Antes de ir, ela me mostrou a entrada, e quando ela partiu, levou embora o teu sono.
 
-Como alguém que em dúvida se tranqüiliza quando a verdade lhe é revelada, assim ocorreu comigo. Quando o mestre me viu sereno, ele se levantou e saiu caminhando pela beira. Eu me levantei também, e o segui.
+Como alguém que em dúvida se tranquiliza quando a verdade lhe é revelada, assim ocorreu comigo. Quando o mestre me viu sereno, ele se levantou e saiu caminhando pela beira. Eu me levantei também, e o segui.
 
 Chegamos até o local que eu antes pensara ser uma rachadura na pedra. Lá, depois de de três degraus de cores diversas, havia uma porta. No mais alto degrau estava um porteiro, calado. Eu não consegui mirá-lo, pois o clarão que emanava do seu rosto me ofuscava. Brilhava tanto quanto o Sol, que refletia na espada nua firme na sua mão.
 

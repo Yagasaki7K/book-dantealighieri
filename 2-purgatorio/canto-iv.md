@@ -2,7 +2,7 @@
 
 ## Subida ao segundo terraço - Almas dos que se arrependeram tardiamente por preguiça - Belacqua
 
-Quando algum dos nossos sentidos se entrega à intensidade do prazer ou da dor, naquele momento, ele toma toda a atenção da alma, que ignora quaisquer outros poderes. Isto mostra o engano de quem afirma que mais de uma alma habita em nossos corpos. Portanto, quando se ouve ou se vê alguma coisa, que captura a atenção total da alma, o tempo passa sem que percebamos. Disso tive experiência verdadeira enquanto escutava aquele espírito, pois sem que eu percebesse, o Sol subira bem cinqüenta graus de seu caminho até que o grupo finalmente parou, e gritou a uma só voz:
+Quando algum dos nossos sentidos se entrega à intensidade do prazer ou da dor, naquele momento, ele toma toda a atenção da alma, que ignora quaisquer outros poderes. Isto mostra o engano de quem afirma que mais de uma alma habita em nossos corpos. Portanto, quando se ouve ou se vê alguma coisa, que captura a atenção total da alma, o tempo passa sem que percebamos. Disso tive experiência verdadeira enquanto escutava aquele espírito, pois sem que eu percebesse, o Sol subira bem cinquenta graus de seu caminho até que o grupo finalmente parou, e gritou a uma só voz:
 
 - É aqui o lugar por onde podereis subir.
 

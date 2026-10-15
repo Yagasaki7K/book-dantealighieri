@@ -1,4 +1,4 @@
-# Conto VIII
+# Canto VIII
 ## Flégias, os demônios e a cidade de Dite
 
 Eu devo explicar que, bem antes de chegarmos ao pé daquela torre, já observávamos as duas chamas que havia no seu cume. Na escuridão do rio, outra luz tão distante que quase não se via, respondia com um sinal. Voltei-me ao mar de toda sabedoria, e perguntei:

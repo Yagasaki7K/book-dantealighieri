@@ -1,4 +1,4 @@
-# Conto XXXIV
+# Canto XXXIV
 
 ## Lúcifer, Judas, Bruto e Cássio
 
@@ -16,7 +16,7 @@ Não me perguntes, leitor, como eu fiquei fraco e gelado, pois não há palavras
 
 - Esse da frente é Judas Iscariote - disse-me o mestre - que sofre pena dobrada, com a cabeça para dentro e as pernas para fora. O que é mordido pela boca preta é Bruto e o outro é Cássio. Mas em breve será noite. Está na hora de partirmos, pois já vimos tudo o que há para se ver. Agora, agarre-se em mim firmemente.
 
-Obedeci-o e ele me carregou, se dirigindo para as costas de Lúcifer. Aguardou um pouco e quando as asas estavam altas, saltou dà beira de um fosso para a escuridão, mas logo agarrou-se às costas peludas do Demônio. Descemos mais ainda. Estávamos entre as costas de Lúcifer e às crostas congeladas do Cócito. Quando chegamos à altura da junção da coxa ao tronco do gigante infernal, meu guia, já mostrando sinais de fadiga, inverteu o corpo e, sem soltar os pelos do monstro, seguiu, como se subisse, me fazendo pensar que voltávamos para o inferno.
+Obedeci-o e ele me carregou, se dirigindo para as costas de Lúcifer. Aguardou um pouco e quando as asas estavam altas, saltou da beira de um fosso para a escuridão, mas logo agarrou-se às costas peludas do Demônio. Descemos mais ainda. Estávamos entre as costas de Lúcifer e às crostas congeladas do Cócito. Quando chegamos à altura da junção da coxa ao tronco do gigante infernal, meu guia, já mostrando sinais de fadiga, inverteu o corpo e, sem soltar os pelos do monstro, seguiu, como se subisse, me fazendo pensar que voltávamos para o inferno.
 
 - Segura firme - disse ele - pois não há outro caminho. Só por estas escadas poderemos escapar de tanto mal.
 

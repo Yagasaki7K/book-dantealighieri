@@ -1,4 +1,4 @@
-# Conto XXVII
+# Canto XXVII
 ## Guido de Montefeltro
 
 A chama agora estava imóvel e quieta. Nada mais falou e já se afastava com a licença do poeta quando uma outra, que vinha logo atrás, chamou nossa atenção à sua ponta que liberava ruídos estranhos. A ponta começou a mover-se, como se fosse uma língua, até que ouvimos:

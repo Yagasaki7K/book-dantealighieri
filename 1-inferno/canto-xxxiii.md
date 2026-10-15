@@ -1,4 +1,4 @@
-# Conto XXXIII
+# Canto XXXIII
 
 ## O conde Ugolino, Ptolomeia e frei Alberigo
 

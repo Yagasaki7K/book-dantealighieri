@@ -1,4 +1,4 @@
-# Conto XX
+# Canto XX
 ## Os adivinhos
 
 Da nossa posição sobre o quarto valado pude ver procissões caladas caminhando e ouvir o seu pranto. Mas quando olhei com mais atenção eu vi, com espanto, que todas as pessoas tinham a cabeça torcida. Só podiam andar para trás, pois olhar para frente não lhes era permitido. Vendo tal imagem torta e as lágrimas que vertiam descendo pelas nádegas, não pude conter-me e chorei também.

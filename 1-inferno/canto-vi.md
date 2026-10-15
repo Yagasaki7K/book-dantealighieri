@@ -1,4 +1,4 @@
-# Conto VI
+# Canto VI
 ## Cérbero, a gula e Ciacco
 
 Quando acordei já estava no terceiro círculo, cercado de mais tormentos e mais atormentados que surgiam de todos os lados. Uma chuva, gélida, eterna, com neve e granizo, caía sobre a lama podre que as almas encharcavam. Cérbero, fera cruel e perversa, latia com suas três goelas para as almas submersas na lama. Ele tem uma barba negra e seis olhos vermelhos, ventre largo e garras aguçadas com as quais rasga os pecadores e os tortura. Elas berravam como cães e se contorciam na lama, tentando em vão se proteger das chicotadas da chuva dura.
